@@ -1,0 +1,515 @@
+# Translation of Themes - Miyazaki in German
+# This file is distributed under the same license as the Themes - Miyazaki package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-04-07 10:13:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: de\n"
+"Project-Id-Version: Themes - Miyazaki\n"
+
+#. Theme Name of the theme
+msgid "Miyazaki"
+msgstr "Miyazaki"
+
+#: functions.php:1109
+msgid "Check to hide the search toggle and search form in the header and mobile menu."
+msgstr "Diese Funktion verbirgt das Such-Overlay im Header und mobilen Menü."
+
+#: functions.php:1108
+msgid "Disable Search"
+msgstr "Suche deaktivieren"
+
+#. Translators: $s = name of the theme developer
+#: footer.php:36
+msgctxt "Translators: $s = name of the theme developer"
+msgid "Theme by %s"
+msgstr "Theme von %s"
+
+#: header.php:93
+msgid "Close"
+msgstr "Schließen"
+
+#: header.php:92
+msgid "Menu"
+msgstr "Menü"
+
+#: related-posts.php:64
+msgid "Read Next"
+msgstr "Nächster Beitrag"
+
+#: widgets/recent-comments.php:121
+msgid "Number of comments to display"
+msgstr "Anzahl der anzuzeigenden Kommentare"
+
+#. Translators: %1$s = post title, %2$s = post date
+#: widgets/recent-comments.php:60
+msgctxt "Translators: %1$s = post title, %2$s = post date"
+msgid "Comment to %1$s, posted %2$s"
+msgstr "Kommentar zu %1$s, geschrieben am %2$s"
+
+#: widgets/recent-comments.php:10
+msgid "Recent Comments"
+msgstr "Letzte Kommentare"
+
+#: widgets/recent-comments.php:8
+msgid "Displays recent comments with user avatars."
+msgstr "Neuste Kommentare mit User-Avataren anzeigen."
+
+#: widgets/recent-comments.php:123 widgets/recent-posts.php:131
+msgid "Defaults to 3 if empty"
+msgstr "Standardwert (wenn leer) ist 3"
+
+#: widgets/recent-posts.php:129
+msgid "Number of posts to display"
+msgstr "Anzahl der anzuzeigenden Beiträge"
+
+#: widgets/recent-comments.php:116 widgets/recent-posts.php:124
+msgid "Title"
+msgstr "Titel"
+
+#: widgets/recent-posts.php:10
+msgid "Recent Posts"
+msgstr "Aktuelle Beiträge"
+
+#: widgets/recent-posts.php:8
+msgid "Displays recent blog entries."
+msgstr "Neueste Blogbeiträge anzeigen"
+
+#: comments.php:73
+msgid "Comments closed"
+msgstr "Kommentarfunktion ist deaktiviert"
+
+#: comments.php:42
+msgid "Newer Comments"
+msgstr "Neuere Kommentare"
+
+#: comments.php:41
+msgid "Older Comments"
+msgstr "Ältere Kommentare"
+
+#: comments.php:24
+msgid "Add Yours"
+msgstr "Kommentieren"
+
+#. Translators: %s = the number of comments
+#: comments.php:15
+msgctxt "Translators: %s = the number of comments"
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] "%s Kommentar"
+msgstr[1] "%s Kommentare"
+
+#: 404.php:11
+msgid "front page"
+msgstr "Startseite"
+
+#: 404.php:11
+msgid "We could not find the page you’re looking for. Do you want to go back to the %s?"
+msgstr "Die gewünschte Seite konnte nicht gefunden werden. Möchtest du zur %s zurückkehren?"
+
+#: index.php:71
+msgid "We couldn’t find any matching search results, but feel free to try again with different words."
+msgstr "Es konnte kein passendes Suchergebnis gefunden werden, aber du kannst es jederzeit mit anderen Begriffen noch einmal probieren."
+
+#: pagination.php:70
+msgid "Next Page"
+msgstr "Nächste Seite"
+
+#: pagination.php:66
+msgid "Previous Page"
+msgstr "Vorherige Seite"
+
+#: pagination.php:42
+msgid "Nothing more to load."
+msgstr "Keine weiteren Inhalte verfügbar."
+
+#: pagination.php:38
+msgid "Load More"
+msgstr "Mehr laden"
+
+#: functions.php:1276
+msgctxt "Google Fonts: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:1248
+msgctxt "Short name of the larger font size in the block editor."
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:1247
+msgctxt "Name of the larger font size in the block editor"
+msgid "Larger"
+msgstr "Größer"
+
+#: functions.php:1242
+msgctxt "Short name of the large font size in the block editor."
+msgid "L"
+msgstr "L"
+
+#: functions.php:1241
+msgctxt "Name of the large font size in the block editor"
+msgid "Large"
+msgstr "Groß"
+
+#: functions.php:1236
+msgctxt "Short name of the regular font size in the block editor."
+msgid "M"
+msgstr "M"
+
+#: functions.php:1235
+msgctxt "Name of the regular font size in the block editor"
+msgid "Regular"
+msgstr "Normal"
+
+#: functions.php:1230
+msgctxt "Short name of the small font size in the block editor."
+msgid "S"
+msgstr "S"
+
+#: functions.php:1229
+msgctxt "Name of the small font size in the block editor"
+msgid "Small"
+msgstr "Klein"
+
+#: functions.php:1219
+msgctxt "Name of the white color in the block editor palette"
+msgid "White"
+msgstr "Weiß"
+
+#: functions.php:1214
+msgctxt "Name of the light gray color in the block editor palette"
+msgid "Light gray"
+msgstr "Helles Grau"
+
+#: functions.php:1209
+msgctxt "Name of the gray color in the block editor palette"
+msgid "Gray"
+msgstr "Grau"
+
+#: functions.php:1204
+msgctxt "Name of the dark gray color in the block editor palette"
+msgid "Dark gray"
+msgstr "Dunkles Grau"
+
+#: functions.php:1199
+msgctxt "Name of the black color in the block editor palette"
+msgid "Black"
+msgstr "Schwarz"
+
+#: functions.php:1194
+msgctxt "Name of the accent color in the block editor palette"
+msgid "Accent"
+msgstr "Akzentfarbe"
+
+#: functions.php:1135
+msgid "Check to hide the related posts section on single posts."
+msgstr "Auswählen, um den Abschnitt „ähnliche Beiträge“ in Einzelbeiträgen auszublenden."
+
+#: functions.php:1134
+msgid "Disable Related Posts"
+msgstr "Ähnliche Beiträge deaktivieren"
+
+#: functions.php:1117
+msgid "Related Posts"
+msgstr "Ähnliche Beiträge"
+
+#: functions.php:1082
+msgid "Previous and next page links"
+msgstr "Links zur vorherigen und nächsten Seite"
+
+#: functions.php:1081
+msgid "Load more on scroll"
+msgstr "Mehr laden durch Scrollen"
+
+#: functions.php:1080
+msgid "Load more on button click"
+msgstr "Mehr laden durch Button-Klick"
+
+#: functions.php:1078
+msgid "Pagination Type:"
+msgstr "Art der Seitennummerierung:"
+
+#: functions.php:1064
+msgid "Choose which type of pagination to display."
+msgstr "Wähle die Art der gewünschten Seitennummerierung."
+
+#: functions.php:1061
+msgid "Pagination"
+msgstr "Seitennummerierung"
+
+#: functions.php:1052
+msgid "Select the post meta to display in post previews on archive pages."
+msgstr "Wähle, welche Metadaten in der Beitragsvorschau auf Archivseiten angezeigt werden sollen."
+
+#: functions.php:1051
+msgid "Post Meta In Previews:"
+msgstr "Metadaten in der Vorschau:"
+
+#: functions.php:1038
+msgid "Select the post meta to display below the content on single posts."
+msgstr "Wähle, welche Metadaten in Einzelbeiträgen unterhalb des Inhalts angezeigt werden sollen."
+
+#: functions.php:1037
+msgid "Post Meta on Single Posts (bottom):"
+msgstr "Metadaten in Einzelbeiträgen (unten):"
+
+#: functions.php:1024
+msgid "Select the post meta to display above the content on single posts."
+msgstr "Wähle, welche Metadaten in Einzelbeiträgen oberhalb des Inhalts angezeigt werden sollen."
+
+#: functions.php:1023
+msgid "Post Meta on Single Posts (top):"
+msgstr "Metadaten in Einzelbeiträgen (oben):"
+
+#: functions.php:1010
+msgid "Sticky status"
+msgstr "Oben gehalten"
+
+#: functions.php:1008
+msgid "Edit link (for logged in users)"
+msgstr "Bearbeiten-Link (für angemeldete Benutzer)"
+
+#: functions.php:1007
+msgid "Comments"
+msgstr "Kommentare"
+
+#: functions.php:1006
+msgid "Categories"
+msgstr "Kategorien"
+
+#: functions.php:999
+msgid "Choose which meta information to display in Miyazaki."
+msgstr "Wähle, welche Metadaten von Miyazaki angezeigt werden sollen."
+
+#: functions.php:996
+msgid "Post Meta"
+msgstr "Meta"
+
+#: functions.php:988
+msgid "Disable Fallback Image"
+msgstr "Standard-Bilder deaktivieren"
+
+#: functions.php:972
+msgid "The selected image will be used when a post is missing a featured image. A default fallback image included in the theme will be used if no image is set."
+msgstr "Das ausgewählte Bild wird benutzt, wenn ein Beitrag kein Beitragsbild hat. Falls du kein Bild auswählst, wird ein Standard-Bild benutzt, das im Theme enthalten ist."
+
+#: functions.php:971
+msgid "Fallback Image"
+msgstr "Standard-Bild"
+
+#: functions.php:961
+msgid "Checking this will decrease load times, but also make images look less sharp on high-resolution screens."
+msgstr "Diese Option verringert die Ladezeiten, allerdings werden die Bilder dadurch auf hochauflösenden Bildschirmen weniger scharf dargestellt."
+
+#: functions.php:960
+msgid "Use Low-Resolution Images"
+msgstr "Bilder mit niedriger Auflösung verwenden"
+
+#: functions.php:947
+msgid "Settings for images in Miyazaki."
+msgstr "Bilder-Einstellungen für Miyazaki."
+
+#: functions.php:944
+msgid "Images"
+msgstr "Bilder"
+
+#: functions.php:936
+msgid "Check to remove the big site title on the front page. Only applies if you haven't uploaded a logo."
+msgstr "Diese Option entfernt den riesigen Seitentitel auf der Startseite. (Gilt nur, wenn du kein Logo hochgeladen hast.)"
+
+#: functions.php:935
+msgid "Disable Big Front Page Title"
+msgstr "Riesen-Überschrift auf der Startseite deaktivieren"
+
+#: functions.php:921
+msgid "Scales the logo to half its uploaded size, making it sharp on high-res screens."
+msgstr "Skaliert das Logo auf die Hälfte der hochgeladenen Größe. Dadurch wird es auf hochauflösenden Bildschirmen scharf dargestellt."
+
+#: functions.php:920
+msgid "Retina logo"
+msgstr "Retina-Logo"
+
+#: functions.php:903
+msgid "Select a logo to display in the menu overlay on mobile. It should have the same dimensions as the regular logo."
+msgstr "Wähle ein Logo, das auf Mobilgeräten im Menü-Overlay angezeigt werden soll. Es sollte die gleichen Abmessungen aufweisen wie das normale Logo."
+
+#: functions.php:898
+msgid "Overlay Logo"
+msgstr "Logo für Overlay"
+
+#: functions.php:754
+msgid "By post author"
+msgstr "Vom Autor des Beitrags"
+
+#: functions.php:694
+msgid "Sticky post"
+msgstr "Beitrag oben halten"
+
+#: functions.php:675 functions.php:1011
+msgid "Tags"
+msgstr "Schlagwörter"
+
+#: functions.php:666
+msgid "In"
+msgstr "in"
+
+#: functions.php:657
+msgctxt "%s = author name"
+msgid "By %s"
+msgstr "Von %s"
+
+#: functions.php:648 functions.php:1009
+msgid "Post date"
+msgstr "Beitragsdatum"
+
+#: functions.php:461 functions.php:1091 header.php:109
+msgid "Search"
+msgstr "Suche"
+
+#: functions.php:456
+msgid "Day"
+msgstr "Tag"
+
+#: functions.php:454
+msgid "Month"
+msgstr "Monat"
+
+#: functions.php:452
+msgid "Year"
+msgstr "Jahr"
+
+#: functions.php:450 functions.php:1005
+msgid "Author"
+msgstr "Autor"
+
+#: functions.php:448
+msgid "Tag"
+msgstr "Schlagwort"
+
+#: functions.php:446
+msgid "Category"
+msgstr "Kategorie"
+
+#: functions.php:428 functions.php:463
+msgid "Archives"
+msgstr "Archive"
+
+#: functions.php:419
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Chats"
+
+#: functions.php:417
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Audio"
+
+#: functions.php:415
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Status"
+
+#: functions.php:413
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Links"
+
+#: functions.php:411
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Zitate"
+
+#: functions.php:409
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Videos"
+
+#: functions.php:407
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Bilder"
+
+#: functions.php:405
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galerien"
+
+#: functions.php:403
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Kurzmitteilungen"
+
+#: functions.php:368
+msgid "Widgets in this area will be shown in the third footer column."
+msgstr "Widgets in diesem Bereich erscheinen in der dritten Footer-Spalte."
+
+#: functions.php:366
+msgid "Footer #3"
+msgstr "Footer #3"
+
+#: functions.php:358
+msgid "Widgets in this area will be shown in the second footer column."
+msgstr "Widgets in diesem Bereich erscheinen in der zweiten Footer-Spalte."
+
+#: functions.php:356
+msgid "Footer #2"
+msgstr "Footer #2"
+
+#: functions.php:348
+msgid "Widgets in this area will be shown in the first footer column."
+msgstr "Widgets in diesem Bereich erscheinen in der ersten Footer-Spalte."
+
+#: functions.php:346
+msgid "Footer #1"
+msgstr "Footer #1"
+
+#: functions.php:79
+msgctxt "Teko font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:48
+msgid "Footer Menu"
+msgstr "Footer-Menü"
+
+#: functions.php:47
+msgid "Mobile Menu"
+msgstr "Mobilmenü"
+
+#: functions.php:46
+msgid "Primary Menu"
+msgstr "Primäres Menü"
+
+#: functions.php:706 functions.php:710 content.php:44
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: searchform.php:9
+msgctxt "Submit button"
+msgid "Search"
+msgstr "Suchen"
+
+#: searchform.php:8
+msgctxt "Placeholder"
+msgid "Search for&hellip;"
+msgstr "Suchen nach &hellip;"
+
+#: searchform.php:5
+msgctxt "Label"
+msgid "Search for:"
+msgstr "Suche nach:"
+
+#. Author of the theme
+#. Translators: $s = name of the theme developer
+#: footer.php:36
+msgid "Anders Norén"
+msgstr "Anders Norén"
+
+#. Author URI of the theme
+msgid "https://www.andersnoren.se"
+msgstr "https://www.andersnoren.se"

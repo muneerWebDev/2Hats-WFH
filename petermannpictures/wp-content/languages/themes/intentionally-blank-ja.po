@@ -1,0 +1,43 @@
+# Translation of Themes - Intentionally Blank in Japanese
+# This file is distributed under the same license as the Themes - Intentionally Blank package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-07-30 07:52:18+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Intentionally Blank\n"
+
+#. Description of the plugin/theme
+msgid "This theme was intentionally left blank. There are times when all you need is the WordPress dashboard and an blank frontend. You might be using the WordPress REST API as a backend for a mobile App or you might be a minimalism obsessed hipster. This is your theme."
+msgstr "このテーマは意図的に空白のままになっています。WordPress のダッシュボードと空白のフロントエンドのみが必要なときがあります。モバイルアプリのバックエンドとして WordPress REST API を使用していたり、ミニマリズムに取り憑かれていたりする方にピッタリのテーマです。"
+
+#. translators: Proudly powered by WordPress
+#: index.php:39
+msgid "https://wordpress.org/"
+msgstr "https://ja.wordpress.org/"
+
+#: index.php:39
+msgid "Proudly powered by %s"
+msgstr "Proudly powered by %s"
+
+#. #-#-#-#-#  intentionally-blank.pot (Intentionally Blank 1.4.1)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: index.php:37
+msgid "Intentionally Blank"
+msgstr "Intentionally Blank"
+
+#. Author of the plugin/theme
+msgid "Nilo Velez"
+msgstr "Nilo Velez"
+
+#. Theme URI of the plugin/theme
+msgid "https://www.nilovelez.com/portfolio/blank/"
+msgstr "https://www.nilovelez.com/portfolio/blank/"
+
+#. Author URI of the plugin/theme
+msgid "https://www.nilovelez.com/"
+msgstr "https://www.nilovelez.com/"

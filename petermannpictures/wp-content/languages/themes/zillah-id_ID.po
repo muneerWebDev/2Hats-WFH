@@ -1,0 +1,449 @@
+# Translation of Themes - Zillah in Indonesian
+# This file is distributed under the same license as the Themes - Zillah package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-06-06 10:59:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: id\n"
+"Project-Id-Version: Themes - Zillah\n"
+
+#. Description of the theme
+msgid "Zillah is a free minimal blogging WordPress theme from ThemeIsle. Is responsive and compatible with a wide range of plugins like : Nivo Slider, Siteorigin Page Builder, WooCoomerce, Photo Gallery Grid and Contact Form 7."
+msgstr "Zillah adalah tema WordPress dari ThemeIsle yang gratis untuk ngeblog, Responsif dan cocok dengan banyak plugin seperti : Nivo Slider, Siteorigin Page Builder, WooCoomerce, Photo Gallery Grid and Contact Form 7."
+
+#. Theme Name of the theme
+msgid "Zillah"
+msgstr "Zillah"
+
+#: inc/template-tags.php:147
+msgid "Posted:"
+msgstr "Dipos:"
+
+#: inc/customizer.php:154
+msgid "Show updated date in post header."
+msgstr "Perlihatkan tanggal pembaruan di header pos."
+
+#. translators: %s: post title
+#: comments.php:35
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Satu tanggapan pada &ldquo;%s&rdquo;"
+
+#. translators: 1: number of comments, 2: post title
+#: inc/template-tags.php:192
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s Komentar"
+msgstr[1] "%1$s Komentar"
+
+#. translators: %s: post title
+#: inc/template-tags.php:188
+msgctxt "comments title"
+msgid "1 Comment"
+msgstr "1 Komentar"
+
+#: inc/customizer.php:74
+msgid "If you check this box, the alternative layout will be used on blog and single page."
+msgstr "Jika mencentang kotak ini, tata letak alternatif akan digunakan pada blog dan laman tunggal."
+
+#: inc/customizer.php:73
+msgid "Alternative layout"
+msgstr "Tata letak alternatif"
+
+#. translators: s: The post title
+#: functions.php:343
+msgid "Read the post %s"
+msgstr "Baca pos %s"
+
+#. translators: %s: Name of current post.
+#: template-parts/content-single-alternative.php:43
+#: template-parts/content-single.php:42
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lanjut membaca %s <span class=\"meta-nav\">&rarr;</span>"
+
+#. translators: %s: Name of current post
+#: template-parts/content-page.php:36
+msgid "Edit %s"
+msgstr "Sunting %s"
+
+#: template-parts/content-page.php:23 template-parts/content-alternative.php:49
+#: template-parts/content.php:59
+#: template-parts/content-single-alternative.php:56
+#: template-parts/content-single.php:55
+msgid "Pages:"
+msgstr "Laman:"
+
+#: template-parts/content-none.php:49
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Sepertinya kami tidak dapat menemukan apa yang Anda cari. Mungkin pencarian akan membantu."
+
+#: template-parts/content-none.php:42
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Maaf, tidak ada hasil yang sesuai dengan pencarian Anda. Silahkan coba lagi dengan kata kunci berbeda."
+
+#. translators: 1: link to new post
+#: template-parts/content-none.php:28
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Siap mempublikasikan pos pertama Anda? <a href=\"%1$s\">Mulai disini</a>."
+
+#: template-parts/content-none.php:16
+msgid "Sorry, nothing found!"
+msgstr "Maaf, tidak ditemukan!"
+
+#: single.php:31
+msgctxt "next post"
+msgid "<span class=\"post-title\">%title</span>"
+msgstr "<span class=\"post-title\">%title</span>"
+
+#: single.php:30
+msgctxt "previous post"
+msgid "<span class=\"post-title\">%title</span>"
+msgstr "<span class=\"post-title\">%title</span>"
+
+#: searchform.php:14
+msgctxt "submit button"
+msgid "Search"
+msgstr "Cari"
+
+#: searchform.php:12
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Cari &hellip;"
+
+#: searchform.php:11 searchform.php:12
+msgctxt "label"
+msgid "Search for:"
+msgstr "Cari:"
+
+#. translators: s: search term
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "Hasil Pencarian untuk: %s"
+
+#: inc/widgets/class-zillah-about-me.php:108
+msgid "Add your text:"
+msgstr "Tambahkan teks:"
+
+#: inc/widgets/class-zillah-about-me.php:105
+msgid "Enter the URL for your photo"
+msgstr "Masukkan URL foto Anda"
+
+#: inc/widgets/class-zillah-about-me.php:102
+msgid "Title:"
+msgstr "Judul:"
+
+#: inc/widgets/class-zillah-about-me.php:25
+msgid "Zillah: About me"
+msgstr "Zillah: Tentang Saya"
+
+#: inc/widgets/class-zillah-about-me.php:19
+msgid "About me widget."
+msgstr "Widget Tentang Saya"
+
+#: inc/template-tags.php:169
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "Kategori"
+
+#: inc/template-tags.php:165
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:68
+msgid " Edit %s"
+msgstr " Edit %s"
+
+#. translators: 1: tags
+#: inc/template-tags.php:60
+msgid "Tagged %1$s"
+msgstr "Tag %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:57
+msgid ", "
+msgstr ","
+
+#. translators: s: post author
+#: inc/template-tags.php:36
+msgctxt "post author"
+msgid "by %s"
+msgstr "oleh %s"
+
+#. translators: s: post date
+#: inc/template-tags.php:30
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Dipos pada %s"
+
+#. translators: 1: feature name 2: Jetpack module name
+#: inc/class-zillah-theme-plugin-enhancements.php:335
+msgid "To use %1$s, please activate the Jetpack plugin&rsquo;s %2$s."
+msgstr "Untuk menggunakan %1$s, harap aktikan plugin Jetpack&rsquo;s %2$s."
+
+#: inc/class-zillah-theme-plugin-enhancements.php:309
+msgid "Install"
+msgstr "Pasang"
+
+#. translators: 1: plugin name 2: install link
+#: inc/class-zillah-theme-plugin-enhancements.php:307
+msgid " Please install %1$s. %2$s"
+msgstr "Silahkan pasang %1$s. %2$s"
+
+#: inc/class-zillah-theme-plugin-enhancements.php:298
+msgid "Activate"
+msgstr "Aktifkan"
+
+#. translators: 1: plugin name 2: activation link
+#: inc/class-zillah-theme-plugin-enhancements.php:296
+msgid " Please activate %1$s. %2$s"
+msgstr "Silahkan aktifkan %1$s. %2$s"
+
+#: inc/class-zillah-theme-plugin-enhancements.php:225
+msgid "Custom Content Types module"
+msgstr "Modul Jenis Konten Kustom"
+
+#: inc/class-zillah-theme-plugin-enhancements.php:224
+msgid "no specific module needed"
+msgstr "tidak ada modul yang diperlukan"
+
+#: inc/class-zillah-theme-plugin-enhancements.php:206
+msgid "Social Links"
+msgstr "Link Media Sosial"
+
+#: inc/class-zillah-theme-plugin-enhancements.php:197
+msgid "Related Posts"
+msgstr "Pos Terkait"
+
+#: inc/class-zillah-theme-plugin-enhancements.php:188
+msgid "Portfolios"
+msgstr "Portfolio"
+
+#: inc/class-zillah-theme-plugin-enhancements.php:179
+msgid "Testimonials"
+msgstr "Testimonial"
+
+#: inc/class-zillah-theme-plugin-enhancements.php:161
+msgid "Menus"
+msgstr "Menu"
+
+#: inc/class-zillah-theme-plugin-enhancements.php:170
+msgid "Comics"
+msgstr "Comics"
+
+#: inc/class-zillah-theme-plugin-enhancements.php:152
+msgid "Social Menu"
+msgstr "Menu Sosial"
+
+#: inc/class-zillah-theme-plugin-enhancements.php:143
+msgid "Featured Content"
+msgstr "Konten Diunggulkan"
+
+#: inc/class-zillah-theme-plugin-enhancements.php:134
+msgid "Site Logo"
+msgstr "Logo Situs"
+
+#: inc/class-zillah-theme-plugin-enhancements.php:111
+msgid "Simple Contact Form Plugin - PirateForms plugin"
+msgstr "Plugin Kontak Form Sederhana - PirateForms"
+
+#. translators:  'Simple Contact Form Plugin - PirateForms plugin'
+#: inc/class-zillah-theme-plugin-enhancements.php:110
+msgid "The %1$s is recommended to use some of this theme&rsquo;s features."
+msgstr "%1$s disarankan untuk menggunakan fitur lain dari tema ini."
+
+#: inc/class-zillah-theme-plugin-enhancements.php:101
+msgid "Jetpack plugin"
+msgstr "Plugin Jetpack"
+
+#. translators:  'Jetpack plugin'
+#: inc/class-zillah-theme-plugin-enhancements.php:100
+msgid "The %1$s is recommended to use some of this theme&rsquo;s features, including: "
+msgstr "%1$s disarankan untuk menggunakan fitur lain tema ini, termasuk:"
+
+#: inc/customizer.php:368
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/customizer.php:224
+msgid "Change the color scheme"
+msgstr "Ganti skema warna"
+
+#: inc/customizer.php:183
+msgid "If you check this box, the slider area will appear on the homepage."
+msgstr "Jika kotak ini dicentang, area slider akan muncul di laman beranda depan."
+
+#: inc/customizer.php:182
+msgid "Show slider"
+msgstr "Perlihatkan slider"
+
+#: inc/customizer.php:165
+msgid "Featured content slider"
+msgstr "Slider konten yang diunggulkan"
+
+#: inc/customizer.php:135
+msgid "Get 1st image in the post as featured."
+msgstr "Jadikan gambar ke-1 didalam pos sebagai andalan."
+
+#: inc/customizer.php:116
+msgid "If you check this box, the tags will appear in posts."
+msgstr "Jika kotak ini dicentang, tag akan muncul pada pos."
+
+#: inc/customizer.php:115
+msgid "Show tags"
+msgstr "Tampilkan tag"
+
+#: inc/customizer.php:95
+msgid "If you check this box, the sidebar will appear on homepage and archive page."
+msgstr "Jika kotak ini dicentang, sidebar akan muncul di beranda depan dan laman arsip."
+
+#: inc/customizer.php:94
+msgid "Show sidebar"
+msgstr "Perlihatkan sidebar"
+
+#: inc/customizer.php:56
+msgid "Theme options"
+msgstr "Opsi tema"
+
+#: inc/customizer.php:45
+msgid "Hide Site Title"
+msgstr "Sembunyikan Judul Situs"
+
+#: inc/class/class-zillah-category-control.php:24
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; Pilih &mdash;"
+
+#: inc/class/class-zillah-palette.php:65 inc/class/class-zillah-palette.php:74
+msgid "Default"
+msgstr "Bawaan"
+
+#: inc/class/class-zillah-google-fonts-control.php:62
+msgid "No fonts to show"
+msgstr "Tidak ada font untuk ditampilkan"
+
+#: header.php:28
+msgid "Skip to content"
+msgstr "Lanjut ke konten"
+
+#. translators: s: The post title
+#: functions.php:334 functions.php:351
+msgid "Continue Reading %s"
+msgstr "Lanjutkan Membaca %s"
+
+#: functions.php:252
+msgid "expand child menu"
+msgstr "Rebahkan anak menu"
+
+#: functions.php:253
+msgid "collapse child menu"
+msgstr "Kempiskan anak menu "
+
+#: functions.php:205
+msgctxt "Merriweather font: on or off"
+msgid "on"
+msgstr "pada"
+
+#: functions.php:198
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "pada"
+
+#: functions.php:191
+msgctxt "Cabin font: on or off"
+msgid "on"
+msgstr "pada"
+
+#. translators: d: Sidebar number
+#: functions.php:150
+msgid "Footer Widget Area %d"
+msgstr "Area Widget Footer %d"
+
+#: functions.php:138 functions.php:153
+msgid "Add widgets here."
+msgstr "Tambahkan widget disini"
+
+#: functions.php:136 sidebar.php:21
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:53
+msgid "Social Links Menu"
+msgstr "Menu Link Sosial Media"
+
+#: functions.php:52
+msgid "Primary"
+msgstr "Utama"
+
+#: footer.php:81
+msgid "Back to top"
+msgstr "Kembali ke atas"
+
+#. translators: s: 'Themeisle'
+#: footer.php:76
+msgid "Themeisle"
+msgstr "Themeisle"
+
+#. translators: 1: Link to ThemeIsle.com
+#: footer.php:74
+msgid "Theme Zillah by %1$s"
+msgstr "Tema Zillah oleh %1$s"
+
+#. translators: 1: s: 'WordPress'
+#: footer.php:67
+msgid "WordPress"
+msgstr "WordPress"
+
+#. translators: 1: Link to WordPress.org
+#: footer.php:65
+msgid "Proudly powered by %1$s"
+msgstr "Denga bangga ditenagai oleh %1$s"
+
+#: comments.php:97
+msgid "Comments are closed."
+msgstr "Komentar ditutup."
+
+#: comments.php:59 comments.php:83
+msgid "Newer Comments"
+msgstr "Komentar Terbaru"
+
+#: comments.php:58 comments.php:82
+msgid "Older Comments"
+msgstr "Komentar Terdahulu"
+
+#: comments.php:55 comments.php:79
+msgid "Comment navigation"
+msgstr "Navigasi komentar"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:39
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s komentar pada &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s komentar pada &ldquo;%2$s&rdquo;"
+
+#: 404.php:23
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Sepertinya tidak ada apa-apa disini. Mungkin Anda ingin mencoba link dibawah atau coba pencarian?"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Aw! Laman tidak ditemukan."
+
+#. Author URI of the theme
+msgid "http://themeisle.com"
+msgstr "http://themeisle.com"
+
+#. Author of the theme
+msgid "ThemeIsle"
+msgstr "ThemeIsle"
+
+#. Theme URI of the theme
+msgid "https://themeisle.com/themes/zillah/"
+msgstr "https://themeisle.com/themes/zillah/"

@@ -1,0 +1,148 @@
+# Translation of Simple Bootstrap in English (UK)
+# This file is distributed under the same license as the Simple Bootstrap package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-09-30 09:22:41+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Simple Bootstrap\n"
+
+#. Theme Name of the plugin/theme
+msgid "Simple Bootstrap"
+msgstr "Simple Bootstrap"
+
+#. Description of the plugin/theme
+msgid "Basic Wordpress theme using Boostrap."
+msgstr "Basic WordPress theme using Bootstrap."
+
+#. Template Name of the plugin/theme
+msgid "Full Width Page"
+msgstr "Full Width Page"
+
+#: single.php:17
+msgid "Next Post"
+msgstr "Next Post"
+
+#: single.php:16
+msgid "Previous Post"
+msgstr "Previous Post"
+
+#: searchform.php:4 searchform.php:6
+msgid "Search"
+msgstr "Search"
+
+#: search.php:8
+msgctxt "label"
+msgid "Search for:"
+msgstr "Search for:"
+
+#: page-full-width.php:24 page.php:18
+msgid "No pages found."
+msgstr "No pages found."
+
+#: index.php:20 single.php:27
+msgid "No posts found."
+msgstr "No posts found."
+
+#: image.php:53
+msgid "Next &raquo;"
+msgstr "Next &raquo;"
+
+#: image.php:52
+msgid "&laquo; Previous"
+msgstr "&laquo; Previous"
+
+#: header.php:23
+msgid "Navigation"
+msgstr "Navigation"
+
+#: functions.php:223
+msgid "Newer posts"
+msgstr "Newer posts"
+
+#: functions.php:222
+msgid "Older posts"
+msgstr "Older posts"
+
+#: functions.php:208
+msgid "Edit"
+msgstr "Edit"
+
+#: functions.php:204
+msgid "% Comments"
+msgstr "% Comments"
+
+#: functions.php:204
+msgid "1 Comment"
+msgstr "1 Comment"
+
+#: functions.php:204
+msgid "Leave a comment"
+msgstr "Leave a comment"
+
+#: functions.php:83
+msgid "Footer"
+msgstr "Footer"
+
+#: functions.php:65 functions.php:74
+msgid "Used on every page."
+msgstr "Used on every page."
+
+#: functions.php:73
+msgid "Left Sidebar"
+msgstr "Left Sidebar"
+
+#: functions.php:64
+msgid "Right Sidebar"
+msgstr "Right Sidebar"
+
+#: functions.php:25
+msgid "Main Menu"
+msgstr "Main menu"
+
+#: footer.php:12
+msgid "Design by <a href=\"https://github.com/nicolas-van\">@nicolas-van</a>"
+msgstr "Design by <a href=\"https://github.com/nicolas-van\">@nicolas-van</a>"
+
+#: footer.php:13
+msgid "Powered by WordPress"
+msgstr "Powered by WordPress"
+
+#: comments.php:31
+msgid "Newer Comments &raquo;"
+msgstr "Newer Comments &raquo;"
+
+#: comments.php:30
+msgid "&laquo; Older Comments"
+msgstr "&laquo; Older Comments"
+
+#: comments.php:17
+msgid "Comments"
+msgstr "Comments"
+
+#: comments.php:5
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "This post is password protected. Enter the password to view comments."
+
+#: archive.php:26 attachment.php:18 image.php:66 search.php:26
+msgid "No items found."
+msgstr "No items found."
+
+#: 404.php:12
+msgid "Page not found"
+msgstr "Page not found"
+
+#. Theme URI of the plugin/theme
+msgid "https://github.com/nicolas-van/wordpress-simple-bootstrap"
+msgstr "https://github.com/nicolas-van/wordpress-simple-bootstrap"
+
+#. Author of the plugin/theme
+msgid "Nicolas Vanhoren"
+msgstr "Nicolas Vanhoren"
+
+#. Author URI of the plugin/theme
+msgid "https://github.com/nicolas-van"
+msgstr "https://github.com/nicolas-van"

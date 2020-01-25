@@ -1,0 +1,447 @@
+# Translation of Themes - Zillah in Korean
+# This file is distributed under the same license as the Themes - Zillah package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-06-30 02:52:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ko_KR\n"
+"Project-Id-Version: Themes - Zillah\n"
+
+#. Description of the theme
+msgid "Zillah is a free minimal blogging WordPress theme from ThemeIsle. Is responsive and compatible with a wide range of plugins like : Nivo Slider, Siteorigin Page Builder, WooCoomerce, Photo Gallery Grid and Contact Form 7."
+msgstr "Zillah는 ThemeIsle의 미니멀한 블로그용 무료 워드프레스 테마입니다. 반응형이고 넓은 범위의 플러그인과 호환됩니다: Nivo Slider, Siteorigin Page Builder, WooCoomerce, Photo Gallery Grid and Contact Form 7."
+
+#. Theme Name of the theme
+msgid "Zillah"
+msgstr "Zillah"
+
+#: inc/template-tags.php:147
+msgid "Posted:"
+msgstr "발행일:"
+
+#: inc/customizer.php:154
+msgid "Show updated date in post header."
+msgstr "글 헤더에 업데이트 날짜 보이기."
+
+#. translators: %s: post title
+#: comments.php:35
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "&ldquo;%s&rdquo;의 한가지 생각"
+
+#. translators: 1: number of comments, 2: post title
+#: inc/template-tags.php:192
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s 댓글"
+
+#. translators: %s: post title
+#: inc/template-tags.php:188
+msgctxt "comments title"
+msgid "1 Comment"
+msgstr "댓글 한 개"
+
+#: inc/customizer.php:74
+msgid "If you check this box, the alternative layout will be used on blog and single page."
+msgstr "이 박스에 체크하면 블로그 및 싱글 페이지에서 대체 레이아웃이 사용됩니다."
+
+#: inc/customizer.php:73
+msgid "Alternative layout"
+msgstr "대체 레이아웃"
+
+#. translators: s: The post title
+#: functions.php:343
+msgid "Read the post %s"
+msgstr "글 %s 보기"
+
+#. translators: %s: Name of current post.
+#: template-parts/content-single-alternative.php:43
+#: template-parts/content-single.php:42
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%s 더보기 <span class=\"meta-nav\">&rarr;</span>"
+
+#. translators: %s: Name of current post
+#: template-parts/content-page.php:36
+msgid "Edit %s"
+msgstr "편집 %s"
+
+#: template-parts/content-page.php:23 template-parts/content-alternative.php:49
+#: template-parts/content.php:59
+#: template-parts/content-single-alternative.php:56
+#: template-parts/content-single.php:55
+msgid "Pages:"
+msgstr "페이지:"
+
+#: template-parts/content-none.php:49
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "찾고 있는 것을 찾을 수 없는 것 같습니다. 검색이 도움될 수도 있습니다."
+
+#: template-parts/content-none.php:42
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "죄송하지만 검색어와 일치하는 것이 없습니다. 다른 검색어로 다시 시도해보세요."
+
+#. translators: 1: link to new post
+#: template-parts/content-none.php:28
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "첫번째 글을 발행할 준비가 됐나요? <a href=\"%1$s\">여기서 시작하세요</a>."
+
+#: template-parts/content-none.php:16
+msgid "Sorry, nothing found!"
+msgstr "죄송합니다. 아무것도 찾을 수 없습니다!"
+
+#: single.php:31
+msgctxt "next post"
+msgid "<span class=\"post-title\">%title</span>"
+msgstr "<span class=\"post-title\">%title</span>"
+
+#: single.php:30
+msgctxt "previous post"
+msgid "<span class=\"post-title\">%title</span>"
+msgstr "<span class=\"post-title\">%title</span>"
+
+#: searchform.php:14
+msgctxt "submit button"
+msgid "Search"
+msgstr "검색"
+
+#: searchform.php:12
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "검색 &hellip;"
+
+#: searchform.php:11 searchform.php:12
+msgctxt "label"
+msgid "Search for:"
+msgstr "검색 :"
+
+#. translators: s: search term
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "검색 결과: %s"
+
+#: inc/widgets/class-zillah-about-me.php:108
+msgid "Add your text:"
+msgstr "텍스트를 추가하세요:"
+
+#: inc/widgets/class-zillah-about-me.php:105
+msgid "Enter the URL for your photo"
+msgstr "자신의 사진 URL을 입력하세요"
+
+#: inc/widgets/class-zillah-about-me.php:102
+msgid "Title:"
+msgstr "타이틀:"
+
+#: inc/widgets/class-zillah-about-me.php:25
+msgid "Zillah: About me"
+msgstr "Zillah: 내 소개"
+
+#: inc/widgets/class-zillah-about-me.php:19
+msgid "About me widget."
+msgstr "About me 위젯."
+
+#: inc/template-tags.php:169
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "카테고리:"
+
+#: inc/template-tags.php:165
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:68
+msgid " Edit %s"
+msgstr " 편집 %s"
+
+#. translators: 1: tags
+#: inc/template-tags.php:60
+msgid "Tagged %1$s"
+msgstr "태그 %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:57
+msgid ", "
+msgstr ", "
+
+#. translators: s: post author
+#: inc/template-tags.php:36
+msgctxt "post author"
+msgid "by %s"
+msgstr "글쓴이 %s"
+
+#. translators: s: post date
+#: inc/template-tags.php:30
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "발행일자 %s"
+
+#. translators: 1: feature name 2: Jetpack module name
+#: inc/class-zillah-theme-plugin-enhancements.php:335
+msgid "To use %1$s, please activate the Jetpack plugin&rsquo;s %2$s."
+msgstr "%1$s을(를) 사용하려면, 젯팩 플러그인을 활성화 하세요&rsquo;s %2$s."
+
+#: inc/class-zillah-theme-plugin-enhancements.php:309
+msgid "Install"
+msgstr "설치"
+
+#. translators: 1: plugin name 2: install link
+#: inc/class-zillah-theme-plugin-enhancements.php:307
+msgid " Please install %1$s. %2$s"
+msgstr " 설치해주세요 %1$s. %2$s"
+
+#: inc/class-zillah-theme-plugin-enhancements.php:298
+msgid "Activate"
+msgstr "활성화"
+
+#. translators: 1: plugin name 2: activation link
+#: inc/class-zillah-theme-plugin-enhancements.php:296
+msgid " Please activate %1$s. %2$s"
+msgstr " 활성화 해주세요 %1$s. %2$s"
+
+#: inc/class-zillah-theme-plugin-enhancements.php:225
+msgid "Custom Content Types module"
+msgstr "사용자 정의 콘텐츠 타입 모듈"
+
+#: inc/class-zillah-theme-plugin-enhancements.php:224
+msgid "no specific module needed"
+msgstr "특정한 모듈 필요 없음"
+
+#: inc/class-zillah-theme-plugin-enhancements.php:206
+msgid "Social Links"
+msgstr "소셜 링크"
+
+#: inc/class-zillah-theme-plugin-enhancements.php:197
+msgid "Related Posts"
+msgstr "관련 글"
+
+#: inc/class-zillah-theme-plugin-enhancements.php:188
+msgid "Portfolios"
+msgstr "포트폴리오"
+
+#: inc/class-zillah-theme-plugin-enhancements.php:179
+msgid "Testimonials"
+msgstr "추천"
+
+#: inc/class-zillah-theme-plugin-enhancements.php:170
+msgid "Comics"
+msgstr "코믹스"
+
+#: inc/class-zillah-theme-plugin-enhancements.php:161
+msgid "Menus"
+msgstr "메뉴"
+
+#: inc/class-zillah-theme-plugin-enhancements.php:152
+msgid "Social Menu"
+msgstr "소셜 메뉴"
+
+#: inc/class-zillah-theme-plugin-enhancements.php:143
+msgid "Featured Content"
+msgstr "특성 콘텐츠"
+
+#: inc/class-zillah-theme-plugin-enhancements.php:134
+msgid "Site Logo"
+msgstr "사이트 로고"
+
+#: inc/class-zillah-theme-plugin-enhancements.php:111
+msgid "Simple Contact Form Plugin - PirateForms plugin"
+msgstr "Simple Contact Form Plugin - PirateForms plugin"
+
+#. translators:  'Simple Contact Form Plugin - PirateForms plugin'
+#: inc/class-zillah-theme-plugin-enhancements.php:110
+msgid "The %1$s is recommended to use some of this theme&rsquo;s features."
+msgstr "이 테마의 일부를 사용하려면 %1$s이(가) 권장됩니다."
+
+#: inc/class-zillah-theme-plugin-enhancements.php:101
+msgid "Jetpack plugin"
+msgstr "젯팩 플러그인"
+
+#. translators:  'Jetpack plugin'
+#: inc/class-zillah-theme-plugin-enhancements.php:100
+msgid "The %1$s is recommended to use some of this theme&rsquo;s features, including: "
+msgstr "이 테마의 일부를 사용하려면 %1$s이(가) 권장됩니다. 다음 포함: "
+
+#: inc/customizer.php:368
+msgid "Logo"
+msgstr "로고"
+
+#: inc/customizer.php:224
+msgid "Change the color scheme"
+msgstr "색상 구조를 변경하세요"
+
+#: inc/customizer.php:183
+msgid "If you check this box, the slider area will appear on the homepage."
+msgstr "이 박스에 체크하면 슬라이더 영역이 홈 페이지에 나타납니다."
+
+#: inc/customizer.php:182
+msgid "Show slider"
+msgstr "슬라이더 보이기"
+
+#: inc/customizer.php:165
+msgid "Featured content slider"
+msgstr "특성 콘텐츠 슬라이더"
+
+#: inc/customizer.php:135
+msgid "Get 1st image in the post as featured."
+msgstr "글의 첫번째 이미지를 특성으로 사용하기."
+
+#: inc/customizer.php:116
+msgid "If you check this box, the tags will appear in posts."
+msgstr "이 박스에 체크하면 글에 태그가 나타납니다."
+
+#: inc/customizer.php:115
+msgid "Show tags"
+msgstr "태그 보이기"
+
+#: inc/customizer.php:95
+msgid "If you check this box, the sidebar will appear on homepage and archive page."
+msgstr "이 박스에 체크하면 사이드바가 홈 페이지와 글 보관함 페이지에 나타납니다."
+
+#: inc/customizer.php:94
+msgid "Show sidebar"
+msgstr "사이드바 보이기"
+
+#: inc/customizer.php:56
+msgid "Theme options"
+msgstr "테마 옵션"
+
+#: inc/customizer.php:45
+msgid "Hide Site Title"
+msgstr "사이트 제목 감추기"
+
+#: inc/class/class-zillah-category-control.php:24
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; 선택하기 &mdash;"
+
+#: inc/class/class-zillah-palette.php:65 inc/class/class-zillah-palette.php:74
+msgid "Default"
+msgstr "기본"
+
+#: inc/class/class-zillah-google-fonts-control.php:62
+msgid "No fonts to show"
+msgstr "표시할 폰트 없음"
+
+#: header.php:28
+msgid "Skip to content"
+msgstr "콘텐츠로 바로가기"
+
+#. translators: s: The post title
+#: functions.php:334 functions.php:351
+msgid "Continue Reading %s"
+msgstr "계속 읽기 %s"
+
+#: functions.php:253
+msgid "collapse child menu"
+msgstr "하위 메뉴 축소"
+
+#: functions.php:252
+msgid "expand child menu"
+msgstr "하위 메뉴 확장"
+
+#: functions.php:205
+msgctxt "Merriweather font: on or off"
+msgid "on"
+msgstr "사용"
+
+#: functions.php:198
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "사용"
+
+#: functions.php:191
+msgctxt "Cabin font: on or off"
+msgid "on"
+msgstr "사용"
+
+#. translators: d: Sidebar number
+#: functions.php:150
+msgid "Footer Widget Area %d"
+msgstr "푸터 위젯 영역 %d"
+
+#: functions.php:138 functions.php:153
+msgid "Add widgets here."
+msgstr "위젯을 여기에 추가하세요."
+
+#: functions.php:136 sidebar.php:21
+msgid "Sidebar"
+msgstr "사이드바"
+
+#: functions.php:53
+msgid "Social Links Menu"
+msgstr "소셜 링크 메뉴"
+
+#: functions.php:52
+msgid "Primary"
+msgstr "메인"
+
+#: footer.php:81
+msgid "Back to top"
+msgstr "상단으로 가기"
+
+#. translators: s: 'Themeisle'
+#: footer.php:76
+msgid "Themeisle"
+msgstr "Themeisle"
+
+#. translators: 1: Link to ThemeIsle.com
+#: footer.php:74
+msgid "Theme Zillah by %1$s"
+msgstr "Theme Zillah by %1$s"
+
+#. translators: 1: s: 'WordPress'
+#: footer.php:67
+msgid "WordPress"
+msgstr "WordPress"
+
+#. translators: 1: Link to WordPress.org
+#: footer.php:65
+msgid "Proudly powered by %1$s"
+msgstr "Proudly powered by %1$s"
+
+#: comments.php:97
+msgid "Comments are closed."
+msgstr "댓글은 닫혔습니다."
+
+#: comments.php:59 comments.php:83
+msgid "Newer Comments"
+msgstr "새 댓글"
+
+#: comments.php:58 comments.php:82
+msgid "Older Comments"
+msgstr "이전 댓글"
+
+#: comments.php:55 comments.php:79
+msgid "Comment navigation"
+msgstr "댓글 내비게이션"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:39
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo;에 대한 %1$s 의견"
+
+#: 404.php:23
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "현재 위치에서는 아무것도 찾을 수 없는 것 같습니다. 아래의 링크나 검색을 시도해보세요."
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "페이지를 찾을 수 없습니다."
+
+#. Author URI of the theme
+msgid "http://themeisle.com"
+msgstr "http://themeisle.com"
+
+#. Author of the theme
+msgid "ThemeIsle"
+msgstr "ThemeIsle"
+
+#. Theme URI of the theme
+msgid "https://themeisle.com/themes/zillah/"
+msgstr "https://themeisle.com/themes/zillah/"

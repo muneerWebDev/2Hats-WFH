@@ -1,0 +1,145 @@
+# Translation of Themes - Simple Bootstrap in Swedish
+# This file is distributed under the same license as the Themes - Simple Bootstrap package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-09-27 15:49:59+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Themes - Simple Bootstrap\n"
+
+#. Theme Name of the plugin/theme
+msgid "Simple Bootstrap"
+msgstr "Simple Bootstrap"
+
+#: footer.php:12
+msgid "Simple Bootstrap theme by <a href=\"https://github.com/nicolas-van\">@nicolas-van</a>"
+msgstr "Simple Bootstrap tema av <a href=\"https://github.com/nicolas-van\">@nicolas-van</a>"
+
+#. Template Name of the plugin/theme
+msgid "Full Width Page"
+msgstr "Sida, fullbredd"
+
+#: single.php:17
+msgid "Next Post"
+msgstr "Följande inlägg"
+
+#: single.php:16
+msgid "Previous Post"
+msgstr "Tidigare inlägg"
+
+#: searchform.php:4 searchform.php:6
+msgid "Search"
+msgstr "Sök"
+
+#: search.php:8
+msgctxt "label"
+msgid "Search for:"
+msgstr "Sök efter:"
+
+#: page-full-width.php:24 page.php:18
+msgid "No pages found."
+msgstr "Hittade inga sidor."
+
+#: index.php:20 single.php:27
+msgid "No posts found."
+msgstr "Hittade inga inlägg."
+
+#: image.php:53
+msgid "Next &raquo;"
+msgstr "Nästa &raquo;"
+
+#: image.php:52
+msgid "&laquo; Previous"
+msgstr "&laquo; Föregående"
+
+#: header.php:23
+msgid "Navigation"
+msgstr "Navigation"
+
+#: functions.php:230
+msgid "Newer posts"
+msgstr "Nyare inlägg"
+
+#: functions.php:229
+msgid "Older posts"
+msgstr "Äldre inlägg"
+
+#: functions.php:215
+msgid "Edit"
+msgstr "Redigera"
+
+#: functions.php:211
+msgid "% Comments"
+msgstr "% kommentarer"
+
+#: functions.php:211
+msgid "1 Comment"
+msgstr "1 kommentar"
+
+#: functions.php:211
+msgid "Leave a comment"
+msgstr "Lämna en kommentar"
+
+#: functions.php:90
+msgid "Footer"
+msgstr "Sidfot"
+
+#: functions.php:80
+msgid "Left Sidebar"
+msgstr "Sidopanel till vänster"
+
+#: functions.php:72 functions.php:81
+msgid "Used on every page."
+msgstr "Används på varje sida."
+
+#: functions.php:71
+msgid "Right Sidebar"
+msgstr "Sidopanel till höger"
+
+#: functions.php:32
+msgid "Main Menu"
+msgstr "Huvudmeny"
+
+#: footer.php:13
+msgid "Powered by WordPress"
+msgstr "Drivs med WordPress"
+
+#: comments.php:31
+msgid "Newer Comments &raquo;"
+msgstr "Nyare kommentarer &raquo;"
+
+#: comments.php:30
+msgid "&laquo; Older Comments"
+msgstr "&laquo; Äldre kommentarer"
+
+#: comments.php:17
+msgid "Comments"
+msgstr "Kommentarer"
+
+#: comments.php:5
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Det här inlägget är lösenordsskyddat. Ange lösenordet för att se eventuella kommentarer."
+
+#: archive.php:26 attachment.php:18 image.php:66 search.php:26
+msgid "No items found."
+msgstr "Inga poster funna!"
+
+#: 404.php:12
+msgid "Page not found"
+msgstr "Sidan kunde inte hittas"
+
+#. Author URI of the plugin/theme
+msgid "https://github.com/nicolas-van"
+msgstr "https://github.com/nicolas-van"
+
+#. Author of the plugin/theme
+msgid "Nicolas Vanhoren"
+msgstr "Nicolas Vanhoren"
+
+#. Theme URI of the plugin/theme
+msgid "https://github.com/nicolas-van/wordpress-simple-bootstrap"
+msgstr "https://github.com/nicolas-van/wordpress-simple-bootstrap"

@@ -1,0 +1,453 @@
+# Translation of Themes - Zillah in Dutch
+# This file is distributed under the same license as the Themes - Zillah package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-02-01 12:58:45+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: nl\n"
+"Project-Id-Version: Themes - Zillah\n"
+
+#. Description of the theme
+msgid "Zillah is a free minimal blogging WordPress theme from ThemeIsle. Is responsive and compatible with a wide range of plugins like : Nivo Slider, Siteorigin Page Builder, WooCoomerce, Photo Gallery Grid and Contact Form 7."
+msgstr "Zillah is een gratis minimaal bloggend WordPress-thema van ThemeIsle. Is responsief en compatibel met een breed scala aan plug-ins, zoals: Nivo Slider, Siteorigin Page Builder, WooCoomerce, Photo Gallery Grid en Contact Form 7."
+
+#. Theme Name of the theme
+msgid "Zillah"
+msgstr "Zillah"
+
+#: inc/template-tags.php:146
+msgid "Last Updated:"
+msgstr "Laatst bijgewerkt:"
+
+#: inc/template-tags.php:147
+msgid "Posted:"
+msgstr "Geplaatst:"
+
+#: inc/customizer.php:154
+msgid "Show updated date in post header."
+msgstr "Toon bijgewerkte datum in berichtkop."
+
+#. translators: %s: post title
+#: comments.php:35
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Eén gedachte over &ldquo;%s&rdquo;"
+
+#. translators: 1: number of comments, 2: post title
+#: inc/template-tags.php:192
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s opmerking"
+msgstr[1] "%1$s opmerking"
+
+#. translators: %s: post title
+#: inc/template-tags.php:188
+msgctxt "comments title"
+msgid "1 Comment"
+msgstr "1 reactie"
+
+#: inc/customizer.php:74
+msgid "If you check this box, the alternative layout will be used on blog and single page."
+msgstr "Als u dit selectievakje inschakelt, wordt de alternatieve lay-out gebruikt op blog en enkelbericht pagina."
+
+#: inc/customizer.php:73
+msgid "Alternative layout"
+msgstr "Alternatieve lay-out"
+
+#. translators: s: The post title
+#: functions.php:343
+msgid "Read the post %s"
+msgstr "Lees het bericht %s"
+
+#. translators: %s: Name of current post
+#: template-parts/content-page.php:36
+msgid "Edit %s"
+msgstr "Bewerk %s"
+
+#: template-parts/content-page.php:23 template-parts/content-alternative.php:49
+#: template-parts/content.php:59
+#: template-parts/content-single-alternative.php:56
+#: template-parts/content-single.php:55
+msgid "Pages:"
+msgstr "Pagina's:"
+
+#: searchform.php:12
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Zoeken &hellip;"
+
+#. translators: s: post author
+#: inc/template-tags.php:36
+msgctxt "post author"
+msgid "by %s"
+msgstr "door %s"
+
+#: inc/widgets/class-zillah-about-me.php:102
+msgid "Title:"
+msgstr "Titel:"
+
+#: inc/widgets/class-zillah-about-me.php:25
+msgid "Zillah: About me"
+msgstr "Zillah: Over mij"
+
+#: inc/widgets/class-zillah-about-me.php:19
+msgid "About me widget."
+msgstr "Over mij widget."
+
+#: inc/template-tags.php:169
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "Categorieën"
+
+#. translators: 1: s: 'WordPress'
+#: footer.php:67
+msgid "WordPress"
+msgstr "WordPress"
+
+#. translators: s: 'Themeisle'
+#: footer.php:76
+msgid "Themeisle"
+msgstr "Themeisle"
+
+#. translators: %s: Name of current post.
+#: template-parts/content-single-alternative.php:43
+#: template-parts/content-single.php:42
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Ga door met lezen van %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-none.php:49
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Het lijkt erop dat we niet kunnen vinden waarnaar u op zoek bent. Misschien kan zoeken helpen."
+
+#: template-parts/content-none.php:42
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Sorry, maar niets paste bij uw zoektermen. Probeer het opnieuw met een aantal verschillende zoekwoorden."
+
+#. translators: 1: link to new post
+#: template-parts/content-none.php:28
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Klaar om je eerste post te publiceren? <a href=\"%1$s\"> Ga hier aan de slag </a>."
+
+#: template-parts/content-none.php:16
+msgid "Sorry, nothing found!"
+msgstr "Sorry, niets gevonden!"
+
+#: searchform.php:14
+msgctxt "submit button"
+msgid "Search"
+msgstr "Zoeken"
+
+#: searchform.php:11 searchform.php:12
+msgctxt "label"
+msgid "Search for:"
+msgstr "Zoeken:"
+
+#. translators: s: search term
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "Zoek resultaten voor: %s"
+
+#: inc/widgets/class-zillah-about-me.php:108
+msgid "Add your text:"
+msgstr "Voeg uw tekst toe:"
+
+#: inc/widgets/class-zillah-about-me.php:105
+msgid "Enter the URL for your photo"
+msgstr "Voer de URL in voor uw foto"
+
+#: inc/template-tags.php:165
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ","
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:68
+msgid " Edit %s"
+msgstr " Bewerk %s"
+
+#. translators: 1: tags
+#: inc/template-tags.php:60
+msgid "Tagged %1$s"
+msgstr "Tagged %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:57
+msgid ", "
+msgstr ","
+
+#. translators: s: post date
+#: inc/template-tags.php:30
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Geplaatst op %s"
+
+#. translators: 1: feature name 2: Jetpack module name
+#: inc/class-zillah-theme-plugin-enhancements.php:335
+msgid "To use %1$s, please activate the Jetpack plugin&rsquo;s %2$s."
+msgstr "Als u %1$s wilt gebruiken, activeert u de Jetpack plugin&rsquo;s %2$s."
+
+#: inc/class-zillah-theme-plugin-enhancements.php:309
+msgid "Install"
+msgstr "Installeren"
+
+#. translators: 1: plugin name 2: install link
+#: inc/class-zillah-theme-plugin-enhancements.php:307
+msgid " Please install %1$s. %2$s"
+msgstr " Installeer %1$s. %2$s"
+
+#: inc/class-zillah-theme-plugin-enhancements.php:298
+msgid "Activate"
+msgstr "Activeren"
+
+#. translators: 1: plugin name 2: activation link
+#: inc/class-zillah-theme-plugin-enhancements.php:296
+msgid " Please activate %1$s. %2$s"
+msgstr " Activeer %1$s. %2$s"
+
+#: inc/class-zillah-theme-plugin-enhancements.php:225
+msgid "Custom Content Types module"
+msgstr "Aangepaste Content Types-module"
+
+#: inc/class-zillah-theme-plugin-enhancements.php:224
+msgid "no specific module needed"
+msgstr "geen specifieke module nodig"
+
+#: inc/class-zillah-theme-plugin-enhancements.php:206
+msgid "Social Links"
+msgstr "Sociale links"
+
+#: inc/class-zillah-theme-plugin-enhancements.php:197
+msgid "Related Posts"
+msgstr "Gerelateerde berichten"
+
+#: inc/class-zillah-theme-plugin-enhancements.php:188
+msgid "Portfolios"
+msgstr "Portfolio's"
+
+#: inc/class-zillah-theme-plugin-enhancements.php:179
+msgid "Testimonials"
+msgstr "Beoordelingen"
+
+#: inc/class-zillah-theme-plugin-enhancements.php:170
+msgid "Comics"
+msgstr "Comics"
+
+#: inc/class-zillah-theme-plugin-enhancements.php:161
+msgid "Menus"
+msgstr "Menu's"
+
+#: inc/class-zillah-theme-plugin-enhancements.php:152
+msgid "Social Menu"
+msgstr "Sociaal menu"
+
+#: inc/class-zillah-theme-plugin-enhancements.php:143
+msgid "Featured Content"
+msgstr "Aanbevolen inhoud"
+
+#: inc/class-zillah-theme-plugin-enhancements.php:134
+msgid "Site Logo"
+msgstr "Site-logo"
+
+#: inc/class-zillah-theme-plugin-enhancements.php:111
+msgid "Simple Contact Form Plugin - PirateForms plugin"
+msgstr "Simple Contact Form Plugin - PirateForms plug-in"
+
+#. translators:  'Simple Contact Form Plugin - PirateForms plugin'
+#: inc/class-zillah-theme-plugin-enhancements.php:110
+msgid "The %1$s is recommended to use some of this theme&rsquo;s features."
+msgstr "De %1$s wordt aanbevolen om enkele van de functies van dit thema te gebruiken."
+
+#: inc/class-zillah-theme-plugin-enhancements.php:101
+msgid "Jetpack plugin"
+msgstr "Jetpack-plug-in"
+
+#. translators:  'Jetpack plugin'
+#: inc/class-zillah-theme-plugin-enhancements.php:100
+msgid "The %1$s is recommended to use some of this theme&rsquo;s features, including: "
+msgstr "De %1$s wordt aanbevolen om enkele van deze thema's te gebruiken, waaronder:"
+
+#: inc/customizer.php:368
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/customizer.php:224
+msgid "Change the color scheme"
+msgstr "Verander het kleurenschema"
+
+#: inc/customizer.php:183
+msgid "If you check this box, the slider area will appear on the homepage."
+msgstr "Als u dit selectievakje inschakelt, wordt de slider op de voorpagina weergegeven."
+
+#: inc/customizer.php:182
+msgid "Show slider"
+msgstr "Show slider"
+
+#: inc/customizer.php:165
+msgid "Featured content slider"
+msgstr "Uitgelichte content-slider"
+
+#: inc/customizer.php:135
+msgid "Get 1st image in the post as featured."
+msgstr "Krijg 1ste afbeelding in de post als featured."
+
+#: inc/customizer.php:116
+msgid "If you check this box, the tags will appear in posts."
+msgstr "Als u dit vakje aanvinkt, verschijnen de tags in berichten."
+
+#: inc/customizer.php:115
+msgid "Show tags"
+msgstr "Toon labels"
+
+#: inc/customizer.php:95
+msgid "If you check this box, the sidebar will appear on homepage and archive page."
+msgstr "Als u dit selectievakje inschakelt, wordt de zijbalk weergegeven op de startpagina en de archiefpagina."
+
+#: inc/customizer.php:94
+msgid "Show sidebar"
+msgstr "Toon zijbalk"
+
+#: inc/customizer.php:56
+msgid "Theme options"
+msgstr "Thema opties"
+
+#: inc/customizer.php:45
+msgid "Hide Site Title"
+msgstr "Titel van site verbergen"
+
+#: inc/class/class-zillah-category-control.php:24
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; Selecteer &mdash;"
+
+#: inc/class/class-zillah-palette.php:65 inc/class/class-zillah-palette.php:74
+msgid "Default"
+msgstr "Standaard"
+
+#: inc/class/class-zillah-google-fonts-control.php:62
+msgid "No fonts to show"
+msgstr "Geen lettertypen om weer te geven"
+
+#: header.php:28
+msgid "Skip to content"
+msgstr "Meteen naar de inhoud"
+
+#. translators: s: The post title
+#: functions.php:334 functions.php:351
+msgid "Continue Reading %s"
+msgstr "Ga door met lezen van %s"
+
+#: functions.php:253
+msgid "collapse child menu"
+msgstr "invouwen submenu"
+
+#: functions.php:252
+msgid "expand child menu"
+msgstr "uitvouwen submenu"
+
+#: functions.php:205
+msgctxt "Merriweather font: on or off"
+msgid "on"
+msgstr "aan"
+
+#: functions.php:198
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "aan"
+
+#: functions.php:191
+msgctxt "Cabin font: on or off"
+msgid "on"
+msgstr "aan"
+
+#. translators: d: Sidebar number
+#: functions.php:150
+msgid "Footer Widget Area %d"
+msgstr "Footer Widget Area %d"
+
+#: functions.php:138 functions.php:153
+msgid "Add widgets here."
+msgstr "Voeg hier widgets toe."
+
+#: functions.php:136 sidebar.php:21
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:53
+msgid "Social Links Menu"
+msgstr "Menu sociale links"
+
+#: functions.php:52
+msgid "Primary"
+msgstr "Primaire"
+
+#: footer.php:81
+msgid "Back to top"
+msgstr "Terug naar boven"
+
+#. translators: 1: Link to ThemeIsle.com
+#: footer.php:74
+msgid "Theme Zillah by %1$s"
+msgstr "Thema Zillah van %1$s"
+
+#. translators: 1: Link to WordPress.org
+#: footer.php:65
+msgid "Proudly powered by %1$s"
+msgstr "Met trots mogelijk gemaakt door %1$s"
+
+#: comments.php:97
+msgid "Comments are closed."
+msgstr "Reacties zijn gesloten."
+
+#: comments.php:59 comments.php:83
+msgid "Newer Comments"
+msgstr "Nieuwere opmerkingen"
+
+#: comments.php:58 comments.php:82
+msgid "Older Comments"
+msgstr "Eerdere Opmerkingen"
+
+#: comments.php:55 comments.php:79
+msgid "Comment navigation"
+msgstr "Commentaar navigatie"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:39
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s gedachte op & ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s gedachten op & ldquo;%2$s&rdquo;"
+
+#: 404.php:23
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Het lijkt erop dat er niets is gevonden op deze locatie. Misschien probeert u een van de onderstaande links of een zoekopdracht?"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! Die pagina kan niet worden gevonden."
+
+#: single.php:31
+msgctxt "next post"
+msgid "<span class=\"post-title\">%title</span>"
+msgstr " <span class=\"post-title\">%title</span>"
+
+#: single.php:30
+msgctxt "previous post"
+msgid "<span class=\"post-title\">%title</span>"
+msgstr " <span class=\"post-title\">%title</span>"
+
+#. Author URI of the theme
+msgid "http://themeisle.com"
+msgstr "http://themeisle.com"
+
+#. Author of the theme
+msgid "ThemeIsle"
+msgstr "ThemeIsle"
+
+#. Theme URI of the theme
+msgid "https://themeisle.com/themes/zillah/"
+msgstr "http://themeisle.com/themes/zillah/ "

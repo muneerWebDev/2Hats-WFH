@@ -1,0 +1,478 @@
+.custom_table {
+  display: table;
+  width: 100%;
+  border-collapse: separate;
+  font-weight: 400; }
+  .custom_table .table_row {
+    display: table-row; }
+    .custom_table .table_row:last-child .table_small {
+      border-bottom: 0 !important; }
+    .custom_table .table_row:last-child .table_cell {
+      border-bottom: 0 !important; }
+  .custom_table * {
+    font-size: 14px; }
+  .custom_table .theader {
+    display: table-row; }
+  .custom_table .table_header {
+    display: table-cell;
+    background: #eeeeee;
+    color: #242424;
+    padding: 0px 10px 0px 30px;
+    vertical-align: middle;
+    font-weight: 700;
+    height: 60px; }
+  .custom_table .table_cell {
+    padding: 0px 10px 0px 30px;
+    vertical-align: middle;
+    height: 60px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center; }
+  .custom_table .table_small {
+    display: table-cell;
+    border-bottom: 1px solid #dddddd; }
+  .custom_table .table_row > .table_small > .table_cell:nth-child(odd) {
+    display: none;
+    color: #242424;
+    padding-top: 10px;
+    font-weight: 800;
+    padding-bottom: 10px; }
+  .custom_table .table_row > .table_small > .table_cell {
+    color: #5b5b5b; }
+  @media screen and (max-width: 900px) {
+    .custom_table .table {
+      width: 90%; } }
+  @media screen and (max-width: 767px) {
+    .custom_table .table {
+      display: block; }
+    .custom_table .table_row:nth-child(2n+3) {
+      background: none; }
+    .custom_table .theader {
+      display: none; }
+    .custom_table .table_row > .table_small > .table_cell:nth-child(odd) {
+      display: table-cell;
+      width: 50%; }
+    .custom_table .table_cell {
+      display: table-cell;
+      width: 50%; }
+    .custom_table .table_row {
+      display: table;
+      width: 100%;
+      border-collapse: separate;
+      padding-bottom: 20px;
+      margin: 5% auto 0; }
+      .custom_table .table_row .table_small {
+        display: table-row; }
+        .custom_table .table_row .table_small:nth-child(odd) {
+          background: #eeeeee; } }
+
+a.link {
+  color: #0096c8;
+  font-size: 10px;
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center; }
+  a.link.link-big {
+    font-size: 16px;
+    text-align: center; }
+
+main.my_acc {
+  padding: 120px 0 115px; }
+  main.my_acc .dashboard-footer {
+    padding-top: 20px; }
+  main.my_acc .custom-control-label::before {
+    top: -7px;
+    width: 30px;
+    height: 30px;
+    border-radius: 5px;
+    left: -40px; }
+  main.my_acc .custom-control.custom-checkbox,
+  main.my_acc .custom-control.custom-radio {
+    padding-left: 40px;
+    margin-top: 20px; }
+  main.my_acc .custom-control-input:checked ~ .custom-control-label::before {
+    border-color: #242424;
+    background: #fff; }
+  main.my_acc .custom-checkbox .custom-control-input:checked ~ .custom-control-label::after,
+  main.my_acc .custom-radio .custom-control-input:checked ~ .custom-control-label::after {
+    top: -7px;
+    left: -40px;
+    width: 30px;
+    height: 30px;
+    background-image: url("../images/tick.svg"); }
+  main.my_acc .form-group {
+    margin-bottom: 10px; }
+    main.my_acc .form-group input:nth-child(3) {
+      margin-top: 15px; }
+  main.my_acc label {
+    font-size: 10px;
+    color: #888888;
+    text-transform: uppercase;
+    font-weight: 800;
+    letter-spacing: .5px; }
+    main.my_acc label span {
+      color: #0096c8;
+      margin-left: 5px; }
+  main.my_acc input {
+    height: 55px;
+    border-radius: 5px;
+    font-size: 14px; }
+    main.my_acc input:focus {
+      -webkit-box-shadow: none;
+      box-shadow: none; }
+  main.my_acc .custom-control-input:focus ~ .custom-control-indicator,
+  main.my_acc .custom-control-input:focus ~ .custom-control-label::before {
+    -webkit-box-shadow: none;
+    box-shadow: none; }
+  main.my_acc .btn-primary {
+    background: #242424;
+    min-width: 150px;
+    height: 55px;
+    -webkit-transition: .3s;
+    -o-transition: .3s;
+    transition: .3s;
+    border: 1px solid #242424;
+    border-radius: 5px; }
+    main.my_acc .btn-primary:hover {
+      background: #fff !important;
+      background-color: #fff !important;
+      color: #242424 !important;
+      text-decoration: none;
+      border: 1px solid #242424; }
+    main.my_acc .btn-primary:focus, main.my_acc .btn-primary:active {
+      -webkit-box-shadow: none;
+      box-shadow: none;
+      border: 1px solid #242424;
+      background: none;
+      color: #242424; }
+  main.my_acc a.back {
+    font-size: 10px;
+    color: #999999;
+    text-decoration: none;
+    font-weight: 600;
+    letter-spacing: 1px; }
+  main.my_acc h5 {
+    font-family: "Montserrat", Helvetica, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0;
+    margin: 0;
+    font-size: 16px; }
+  main.my_acc h6 {
+    font-size: 14px;
+    font-family: "Montserrat", Helvetica, sans-serif;
+    margin: 0;
+    letter-spacing: 0; }
+  main.my_acc .container {
+    max-width: 1200px; }
+  main.my_acc .acc_nav {
+    list-style: none; }
+    main.my_acc .acc_nav li {
+      margin-bottom: 5px; }
+      main.my_acc .acc_nav li a {
+        font-size: 12px;
+        text-decoration: none;
+        font-weight: 600;
+        color: #999999;
+        -webkit-transition: .3s;
+        -o-transition: .3s;
+        transition: .3s; }
+        main.my_acc .acc_nav li a.active, main.my_acc .acc_nav li a:hover {
+          color: #242424; }
+  main.my_acc .acc_nav_container .dropdown-nav {
+    padding: 5px 70px 5px 30px;
+    height: 55px;
+    border-radius: 5px;
+    color: #888888;
+    border: 1px solid #ccc; }
+  main.my_acc .acc_nav_container .dropdown-nav-wrapper {
+    display: none;
+    position: relative;
+    margin-bottom: 50px; }
+    main.my_acc .acc_nav_container .dropdown-nav-wrapper:after {
+      content: '';
+      position: absolute;
+      width: 10px;
+      height: 10px;
+      margin-top: -5px;
+      border-style: solid;
+      border-color: #0096c8;
+      border-width: 0px 2px 2px 0px;
+      right: 30px;
+      top: 50%;
+      -webkit-transform: rotate(45deg) translateY(-50%);
+      -ms-transform: rotate(45deg) translateY(-50%);
+      transform: rotate(45deg) translateY(-50%); }
+  @media (max-width: 991px) {
+    main.my_acc .acc_nav_container .dropdown-nav-wrapper {
+      display: inline-block;
+      width: 100%; }
+      main.my_acc .acc_nav_container .dropdown-nav-wrapper select {
+        width: 100%; }
+    main.my_acc .acc_nav_container .acc_nav {
+      display: none; } }
+  main.my_acc .head {
+    margin-bottom: 45px; }
+    main.my_acc .head h3 {
+      margin-bottom: 50px; }
+    main.my_acc .head h4 {
+      font-family: "Montserrat", Helvetica, sans-serif;
+      text-transform: capitalize;
+      font-weight: 900;
+      margin-bottom: 28px; }
+    @media (max-width: 767px) {
+      main.my_acc .head {
+        text-align: center; } }
+  main.my_acc .group-section {
+    margin-top: 25px;
+    padding-bottom: 60px;
+    border-bottom: 1px solid #ccc; }
+    main.my_acc .group-section p {
+      font-size: 14px;
+      margin-bottom: 5px; }
+    main.my_acc .group-section .title {
+      margin-bottom: 20px; }
+      main.my_acc .group-section .title .link {
+        margin: 0 0 0 15px; }
+    main.my_acc .group-section .small-head {
+      margin-bottom: 23px; }
+  @media (max-width: 767px) {
+    main.my_acc.dashboard .recent-orders .title {
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+      flex-direction: column;
+      text-align: center; }
+      main.my_acc.dashboard .recent-orders .title a.link {
+        margin: 10px auto; } }
+  main.my_acc.dashboard .account-info .content .link {
+    text-transform: capitalize;
+    font-weight: lighter;
+    text-decoration: underline;
+    font-size: 14px; }
+  main.my_acc.dashboard .address-book {
+    border-bottom: none;
+    padding-bottom: 0; }
+  @media (max-width: 767px) {
+    main.my_acc.dashboard .custom_table a.link, main.my_acc.myorders .custom_table a.link {
+      text-align: center;
+      margin-top: 30px; } }
+  @media (max-width: 767px) {
+    main.my_acc.dashboard .custom_table .table_row .table_small, main.my_acc.myorders .custom_table .table_row .table_small {
+      position: relative; }
+      main.my_acc.dashboard .custom_table .table_row .table_small:last-child, main.my_acc.myorders .custom_table .table_row .table_small:last-child {
+        position: relative; }
+        main.my_acc.dashboard .custom_table .table_row .table_small:last-child .table_cell:last-child, main.my_acc.myorders .custom_table .table_row .table_small:last-child .table_cell:last-child {
+          position: absolute;
+          left: 0;
+          width: 100%;
+          text-align: center;
+          padding: 0 15px; } }
+  main.my_acc.information .dashboard-footer {
+    padding-top: 0; }
+  main.my_acc.addressBook .group-section {
+    padding-bottom: 25px; }
+    main.my_acc.addressBook .group-section .content {
+      margin-bottom: 35px; }
+      main.my_acc.addressBook .group-section .content .link {
+        text-transform: uppercase; }
+  main.my_acc.billingAgreement .head {
+    padding-bottom: 25px; }
+  main.my_acc.billingAgreement .dashboard-footer {
+    padding-top: 30px; }
+  main.my_acc.myorders select {
+    width: 60px;
+    height: 50px;
+    padding: 15px;
+    text-align: center;
+    border: 1px solid #dddddd; }
+    main.my_acc.myorders select option {
+      text-align: center; }
+  main.my_acc.myorders .navSelectWrap {
+    position: relative; }
+    main.my_acc.myorders .navSelectWrap:after {
+      content: '';
+      position: absolute;
+      width: 7px;
+      height: 7px;
+      margin-top: -3.5px;
+      border-style: solid;
+      border-color: #242424;
+      border-width: 0px 2px 2px 0px;
+      right: 15px;
+      top: 50%;
+      -webkit-transform: rotate(45deg) translateY(-50%);
+      -ms-transform: rotate(45deg) translateY(-50%);
+      transform: rotate(45deg) translateY(-50%); }
+  main.my_acc.myorders .pagesNav {
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center; }
+    main.my_acc.myorders .pagesNav p {
+      font-size: 10px;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      padding-right: 30px;
+      font-weight: 600; }
+      main.my_acc.myorders .pagesNav p.count {
+        font-weight: 800;
+        color: #242424; }
+  main.my_acc.checkout select {
+    border: 1px solid #dddddd;
+    height: 55px;
+    width: 100%;
+    padding: 5px 25px;
+    border-radius: 5px;
+    color: #aaaaaa; }
+    main.my_acc.checkout select option {
+      color: #aaaaaa;
+      height: 50px; }
+  main.my_acc.checkout .selectwrap {
+    position: relative; }
+    main.my_acc.checkout .selectwrap::after {
+      content: '';
+      position: absolute;
+      width: 10px;
+      height: 10px;
+      margin-top: -5px;
+      border-style: solid;
+      border-color: #aaaaaa;
+      border-width: 0px 2px 2px 0px;
+      right: 30px;
+      top: 50%;
+      -webkit-transform: rotate(45deg) translateY(-50%);
+      -ms-transform: rotate(45deg) translateY(-50%);
+      transform: rotate(45deg) translateY(-50%); }
+  main.my_acc.checkout .checkout-progress h5 {
+    font-family: "futura-pt-bold";
+    font-weight: 800;
+    padding-bottom: 30px; }
+  main.my_acc.checkout .checkout-progress p {
+    font-size: 14px;
+    margin-bottom: 15px; }
+    main.my_acc.checkout .checkout-progress p.active {
+      color: #000; }
+  main.my_acc.checkout #checkoutSteps .password-forget-link {
+    font-size: 13px;
+    margin-bottom: 20px;
+    text-align: right; }
+  main.my_acc.checkout #checkoutSteps .card {
+    border: none; }
+  main.my_acc.checkout #checkoutSteps p.description {
+    font-size: 12px;
+    margin-top: -15px; }
+  main.my_acc.checkout #checkoutSteps .btn-continue {
+    margin-top: 15px; }
+  main.my_acc.checkout #checkoutSteps .card-header {
+    border: none;
+    border-top: 1px solid #dddddd;
+    background-color: #fff;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    padding: 15px 0; }
+    main.my_acc.checkout #checkoutSteps .card-header .btn-index {
+      width: 42px;
+      height: 42px;
+      border-radius: 50%;
+      background: #0096c8;
+      padding: 0;
+      margin-right: 15px; }
+      main.my_acc.checkout #checkoutSteps .card-header .btn-index:hover, main.my_acc.checkout #checkoutSteps .card-header .btn-index:focus {
+        text-decoration: none; }
+      main.my_acc.checkout #checkoutSteps .card-header .btn-index.collapsed {
+        background: #dddddd;
+        color: #fff;
+        border-color: #dddddd; }
+    main.my_acc.checkout #checkoutSteps .card-header h5 {
+      letter-spacing: 1px; }
+  main.my_acc.checkout #checkoutSteps .card-body {
+    padding: 0 0 30px; }
+  main.my_acc.checkout #checkoutSteps .newAddrForm {
+    padding: 20px 0; }
+  main.my_acc.checkout #checkoutSteps .custom_table .table_row .table_small:last-child {
+    text-align: right; }
+  main.my_acc.checkout #checkoutSteps .custom_table .theader .table_header:last-child {
+    text-align: right; }
+  main.my_acc.checkout #checkoutSteps .order_totals {
+    border-top: 1px solid #ddd;
+    padding-top: 20px; }
+    main.my_acc.checkout #checkoutSteps .order_totals p {
+      font-size: 14px; }
+      main.my_acc.checkout #checkoutSteps .order_totals p.title {
+        font-weight: 800; }
+      main.my_acc.checkout #checkoutSteps .order_totals p.amt {
+        text-align: right; }
+  main.my_acc.checkout #checkoutSteps .existingCust {
+    padding-top: 20px;
+    margin-top: 30px;
+    border-top: 1px solid #ddd; }
+
+main.my_acc .dashboard .view .nobr a {
+  display: block;
+  text-transform: uppercase; }
+
+main.my_acc .dashboard .view .nobr .separator {
+  display: none; }
+
+main.my_acc .acc_nav li.current a {
+  color: #242424; }
+
+.radio.custom-control-input {
+  position: absolute !important; }
+
+main.my_acc #checkoutSteps .card-body ul {
+  list-style: none; }
+
+main.my_acc .validation-advice {
+  color: #0096c8;
+  font-size: 10px;
+  letter-spacing: 1px;
+  font-weight: 600;
+  text-align: right; }
+
+main.my_acc #checkoutSteps .back-link {
+  display: none; }
+
+main.my_acc #checkoutSteps .card-body .card-body {
+  padding-bottom: 0; }
+
+main.my_acc #checkoutSteps .order_totals tr td:first-child {
+  padding-left: 50px; }
+
+main.my_acc #checkoutSteps .order_totals tr:first-child td {
+  padding-top: 10px; }
+
+main.my_acc #checkoutSteps #checkout-review-submit .f-left {
+  padding-top: 30px; }
+
+@media (max-width: 767px) {
+  main.my_acc #checkoutSteps .custom_table thead {
+    display: none; } }
+
+.checkout-progress dt {
+  font-weight: 400;
+  font-size: 14px;
+  margin-bottom: 5px; }
+
+.checkout-progress dd {
+  padding-bottom: 15px;
+  font-size: 12px;
+  border-top: 1px solid #ddd;
+  margin-bottom: 15px; }
+  .checkout-progress dd address {
+    margin-bottom: 0; }
+
+/*# sourceMappingURL=my_acc.css.map */

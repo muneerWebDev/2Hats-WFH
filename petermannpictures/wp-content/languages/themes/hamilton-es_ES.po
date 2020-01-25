@@ -1,0 +1,287 @@
+# Translation of Themes - Hamilton in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Hamilton package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-07-29 11:37:08+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Hamilton\n"
+
+#. Theme Name of the theme
+msgid "Hamilton"
+msgstr "Hamilton"
+
+#. Description of the theme
+msgid "Hamilton is a clean WordPress portfolio theme for creatives. It displays posts in a beautiful image grid that can be set to either two or three columns, which makes it a perfect fit for photographers, illustrators or graphic designers looking for a theme for their portfolio. It also features Block Editor/Gutenberg support, a dark mode, custom background color support, a resume page template, responsive design, Jetpack infinite scroll support, editor styling, and much more. Demo: https://andersnoren.se/themes/hamilton/"
+msgstr "Hamilton es un limpio tema de porfolio de WordPress para creativos. Muestra las entradas en una bonita cuadrícula de imágenes que puede establecerse en dos o tres columnas, lo que hace que encaje perfectamente para fotógrafos, ilustradores o diseñadores gráficos que busquen un tema para su porfolio. También incluye compatibilidad para el editor de bloques/Gutenberg, modo oscuro, compatibilidad con color de fondo personalizado, plantilla de página de currículum, diseño adaptable, compatibilidad para el scroll infinito de Jetpack, editor de estilos y mucho más. Demostración: https://andersnoren.se/themes/hamilton/"
+
+#: header.php:24
+msgid "Skip to the content"
+msgstr "Saltar al contenido"
+
+#: functions.php:475
+msgctxt "Short name of the larger font size in the Gutenberg editor."
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:474
+msgctxt "Name of the larger font size in Gutenberg"
+msgid "Larger"
+msgstr "Más grande"
+
+#: functions.php:469
+msgctxt "Short name of the large font size in the Gutenberg editor."
+msgid "L"
+msgstr "L"
+
+#: functions.php:468
+msgctxt "Name of the large font size in Gutenberg"
+msgid "Large"
+msgstr "Grande"
+
+#: functions.php:463
+msgctxt "Short name of the regular font size in the Gutenberg editor."
+msgid "M"
+msgstr "M"
+
+#: functions.php:462
+msgctxt "Name of the regular font size in Gutenberg"
+msgid "Regular"
+msgstr "Normal"
+
+#: functions.php:457
+msgctxt "Short name of the small font size in the Gutenberg editor."
+msgid "S"
+msgstr "S"
+
+#: functions.php:456
+msgctxt "Name of the small font size in Gutenberg"
+msgid "Small"
+msgstr "Pequeña"
+
+#: functions.php:446
+msgctxt "Name of the white color in the Gutenberg palette"
+msgid "White"
+msgstr "Blanco"
+
+#: functions.php:441
+msgctxt "Name of the light gray color in the Gutenberg palette"
+msgid "Light Gray"
+msgstr "Gris claro"
+
+#: functions.php:436
+msgctxt "Name of the medium gray color in the Gutenberg palette"
+msgid "Medium Gray"
+msgstr "Gris medio"
+
+#: functions.php:431
+msgctxt "Name of the dark gray color in the Gutenberg palette"
+msgid "Dark Gray"
+msgstr "Gris oscuro"
+
+#: functions.php:426
+msgctxt "Name of the black color in the Gutenberg palette"
+msgid "Black"
+msgstr "Negro"
+
+#: functions.php:91 functions.php:123 functions.php:503
+msgctxt "Google Fonts: on or off"
+msgid "on"
+msgstr "on"
+
+#: singular.php:27
+msgid "In"
+msgstr "En"
+
+#: pagination.php:13
+msgid "Older"
+msgstr "Antiguas"
+
+#: pagination.php:7
+msgid "Newer"
+msgstr "Recientes"
+
+#: functions.php:376
+msgid "Front Page Title"
+msgstr "Título de la página de inicio"
+
+#: functions.php:299
+msgid "Theme Options"
+msgstr "Opciones"
+
+#: functions.php:274
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Chat"
+
+#: functions.php:272
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Audio"
+
+#: functions.php:270
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Estado"
+
+#: functions.php:268
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Enlaces"
+
+#: functions.php:266
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Citas"
+
+#: functions.php:264
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Vídeos"
+
+#: functions.php:262
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Imágenes"
+
+#: functions.php:260
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galerías"
+
+#: functions.php:281
+msgid "Archives"
+msgstr "Archivos"
+
+#: header.php:137 footer.php:6
+msgid "Theme by"
+msgstr "Tema por"
+
+#: comments.php:32
+msgid "Comments closed"
+msgstr "Comentarios cerrados"
+
+#: 404.php:9
+msgid "Error 404"
+msgstr "Error 404"
+
+#: comments.php:5
+msgid "Comments"
+msgstr "Comentarios"
+
+#: singular.php:64
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: functions.php:42
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#. Template Name of the theme
+msgid "Resume"
+msgstr "Currículum"
+
+#: singular.php:34
+msgid "%s Comments"
+msgstr "%s comentarios"
+
+#: singular.php:33
+msgid "1 Comment"
+msgstr "1 comentario"
+
+#: singular.php:32
+msgid "Add Comment"
+msgstr "Añadir un comentario"
+
+#: index.php:38
+msgid "We could not find any results for the search query \"%s\"."
+msgstr "No hemos podido encontrar resultados para la consulta de búsqueda «%s»."
+
+#: index.php:37
+msgid "No results found"
+msgstr "No se han encontrado resultados"
+
+#: index.php:27
+msgid "We found %s results matching your search."
+msgstr "Hemos encontrado %s resultados que coinciden con tu búsqueda."
+
+#: index.php:26
+msgid "Search: %s"
+msgstr "Buscar: %s"
+
+#: functions.php:377
+msgid "The title you want shown on the front page when the \"Front page displays\" setting is set to \"Your latest posts\" in Settings > Reading."
+msgstr "El título que quieres mostrar en la página de inicio cuando el ajuste de «Tu portada muestra» está establecido en «Tus últimas entradas» en Ajustes > Lectura."
+
+#: functions.php:362
+msgid "Check to always show the titles in the post previews."
+msgstr "Marcar para mostrar siempre los títulos en la vista previa de las entradas."
+
+#: functions.php:361
+msgid "Show Preview Titles"
+msgstr "Mostrar los títulos en la vista previa"
+
+#: functions.php:347
+msgid "Check to use three columns in the post grid on desktop."
+msgstr "Marcar para usar tres columnas en la cuadrícula de entradas en el escritorio."
+
+#: functions.php:346
+msgid "Three Columns"
+msgstr "Tres columnas"
+
+#: functions.php:332
+msgid "Replace the navigation toggle in the header with the Primary Menu on desktop."
+msgstr "Reemplazar en el encabezado el conmutador con el menú primario en el escritorio."
+
+#: functions.php:331
+msgid "Show Primary Menu in the Header"
+msgstr "Mostrar el menú primario en la cabecera"
+
+#: functions.php:317
+msgid "Displays the site with white text and black background. If Background Color is set, only the text color will change."
+msgstr "Muestra el sitio con texto en blanco y fondo negro. Si está establecido el color de fondo, solo cambiará el color del texto."
+
+#: functions.php:316
+msgid "Dark Mode"
+msgstr "Modo oscuro"
+
+#: functions.php:302
+msgid "Customize the theme settings for Hamilton."
+msgstr "Personalizar los ajustes del tema Hamilton."
+
+#: functions.php:258
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Minientrada"
+
+#: functions.php:43
+msgid "Secondary Menu"
+msgstr "Menú secundario"
+
+#: content.php:36
+msgid "Sticky"
+msgstr "Fijo"
+
+#: 404.php:15
+msgid "To the front page"
+msgstr "A la página de inicio"
+
+#: 404.php:11
+msgid "The page you're looking for could not be found. It may have been removed, renamed, or maybe it didn't exist in the first place."
+msgstr "No se ha podido encontrar la página que buscas. Puede haber sido eliminada, renombrada o ni siquiera existir."
+
+#. Theme URI of the theme
+msgid "https://www.andersnoren.se/teman/hamilton-wordpress-theme/"
+msgstr "https://www.andersnoren.se/teman/hamilton-wordpress-theme/"
+
+#. Author URI of the theme
+msgid "https://www.andersnoren.se"
+msgstr "https://www.andersnoren.se"
+
+#. Author of the theme
+msgid "Anders Norén"
+msgstr "Anders Norén"

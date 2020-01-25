@@ -1,0 +1,515 @@
+# Translation of Themes - Miyazaki in Swedish
+# This file is distributed under the same license as the Themes - Miyazaki package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-07-24 12:58:17+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Themes - Miyazaki\n"
+
+#. Theme Name of the theme
+msgid "Miyazaki"
+msgstr "Miyazaki"
+
+#: header.php:24
+msgid "Skip to the content"
+msgstr "Hoppa till innehåll"
+
+#: functions.php:1108
+msgid "Disable Search"
+msgstr "Inaktivera sök"
+
+#: comments.php:73
+msgid "Comments closed"
+msgstr "Kommentarer är stängda"
+
+#: functions.php:1134
+msgid "Disable Related Posts"
+msgstr "Inaktivera relaterade inlägg"
+
+#: searchform.php:9
+msgctxt "Submit button"
+msgid "Search"
+msgstr "Sök"
+
+#: functions.php:706 functions.php:710 content.php:44
+msgid "Edit"
+msgstr "Redigera"
+
+#: functions.php:46
+msgid "Primary Menu"
+msgstr "Primär meny"
+
+#: functions.php:48
+msgid "Footer Menu"
+msgstr "Sidfotsmeny"
+
+#: searchform.php:8
+msgctxt "Placeholder"
+msgid "Search for&hellip;"
+msgstr "Sök efter&hellip;"
+
+#. Author of the theme
+#. Translators: $s = name of the theme developer
+#: footer.php:36
+msgid "Anders Norén"
+msgstr "Anders Norén"
+
+#: searchform.php:5
+msgctxt "Label"
+msgid "Search for:"
+msgstr "Sök efter:"
+
+#. Translators: $s = name of the theme developer
+#: footer.php:36
+msgctxt "Translators: $s = name of the theme developer"
+msgid "Theme by %s"
+msgstr "Tema av %s"
+
+#: header.php:93
+msgid "Close"
+msgstr "Stäng"
+
+#: header.php:92
+msgid "Menu"
+msgstr "Meny"
+
+#: related-posts.php:64
+msgid "Read Next"
+msgstr "Läs nästa"
+
+#: widgets/recent-comments.php:121
+msgid "Number of comments to display"
+msgstr "Antal kommentarer att visa"
+
+#. Translators: %1$s = post title, %2$s = post date
+#: widgets/recent-comments.php:60
+msgctxt "Translators: %1$s = post title, %2$s = post date"
+msgid "Comment to %1$s, posted %2$s"
+msgstr "Kommentarer för %1$s, publicerat %2$s"
+
+#: widgets/recent-comments.php:10
+msgid "Recent Comments"
+msgstr "Senaste kommentarer"
+
+#: widgets/recent-comments.php:8
+msgid "Displays recent comments with user avatars."
+msgstr "Visa senaste kommentarer med användarnas profilbild. "
+
+#: widgets/recent-posts.php:129
+msgid "Number of posts to display"
+msgstr "Antal inlägg att visa"
+
+#: widgets/recent-posts.php:10
+msgid "Recent Posts"
+msgstr "Senaste inlägg"
+
+#: widgets/recent-posts.php:8
+msgid "Displays recent blog entries."
+msgstr "Visar senaste blogginlägg."
+
+#: comments.php:42
+msgid "Newer Comments"
+msgstr "Nyare kommentarer"
+
+#: comments.php:41
+msgid "Older Comments"
+msgstr "Äldre kommentarer"
+
+#. Translators: %s = the number of comments
+#: comments.php:15
+msgctxt "Translators: %s = the number of comments"
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] "%s kommentar"
+msgstr[1] "%s kommentarer"
+
+#: 404.php:11
+msgid "front page"
+msgstr "startsida"
+
+#: pagination.php:70
+msgid "Next Page"
+msgstr "Nästa sida"
+
+#: pagination.php:66
+msgid "Previous Page"
+msgstr "Föregående sida"
+
+#: pagination.php:42
+msgid "Nothing more to load."
+msgstr "Inget mer att ladda. "
+
+#: functions.php:1276
+msgctxt "Google Fonts: on or off"
+msgid "on"
+msgstr "på"
+
+#: functions.php:1248
+msgctxt "Short name of the larger font size in the block editor."
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:1247
+msgctxt "Name of the larger font size in the block editor"
+msgid "Larger"
+msgstr "Större"
+
+#: functions.php:1242
+msgctxt "Short name of the large font size in the block editor."
+msgid "L"
+msgstr "L"
+
+#: functions.php:1241
+msgctxt "Name of the large font size in the block editor"
+msgid "Large"
+msgstr "Stor"
+
+#: functions.php:1236
+msgctxt "Short name of the regular font size in the block editor."
+msgid "M"
+msgstr "M"
+
+#: functions.php:1235
+msgctxt "Name of the regular font size in the block editor"
+msgid "Regular"
+msgstr "Normal"
+
+#: functions.php:1230
+msgctxt "Short name of the small font size in the block editor."
+msgid "S"
+msgstr "S"
+
+#: functions.php:1229
+msgctxt "Name of the small font size in the block editor"
+msgid "Small"
+msgstr "Liten"
+
+#: functions.php:1219
+msgctxt "Name of the white color in the block editor palette"
+msgid "White"
+msgstr "Vit"
+
+#: functions.php:1214
+msgctxt "Name of the light gray color in the block editor palette"
+msgid "Light gray"
+msgstr "Ljusgrå"
+
+#: functions.php:1209
+msgctxt "Name of the gray color in the block editor palette"
+msgid "Gray"
+msgstr "Grå"
+
+#: functions.php:1204
+msgctxt "Name of the dark gray color in the block editor palette"
+msgid "Dark gray"
+msgstr "Mörkgrå"
+
+#: functions.php:1199
+msgctxt "Name of the black color in the block editor palette"
+msgid "Black"
+msgstr "Svart"
+
+#: functions.php:1194
+msgctxt "Name of the accent color in the block editor palette"
+msgid "Accent"
+msgstr "Accent"
+
+#: widgets/recent-comments.php:116 widgets/recent-posts.php:124
+msgid "Title"
+msgstr "Rubrik"
+
+#: functions.php:1117
+msgid "Related Posts"
+msgstr "Relaterade inlägg"
+
+#: functions.php:1006
+msgid "Categories"
+msgstr "Kategorier"
+
+#: functions.php:944
+msgid "Images"
+msgstr "Bilder"
+
+#: functions.php:675 functions.php:1011
+msgid "Tags"
+msgstr "Etiketter"
+
+#: functions.php:666
+msgid "In"
+msgstr "I"
+
+#: functions.php:657
+msgctxt "%s = author name"
+msgid "By %s"
+msgstr "Av %s"
+
+#: functions.php:648 functions.php:1009
+msgid "Post date"
+msgstr "Inläggsdatum"
+
+#: functions.php:461 functions.php:1091 header.php:109
+msgid "Search"
+msgstr "Sök"
+
+#: functions.php:456
+msgid "Day"
+msgstr "Dag"
+
+#: functions.php:454
+msgid "Month"
+msgstr "Månad"
+
+#: functions.php:452
+msgid "Year"
+msgstr "År"
+
+#: functions.php:450 functions.php:1005
+msgid "Author"
+msgstr "Författare"
+
+#: functions.php:448
+msgid "Tag"
+msgstr "Etikett"
+
+#: functions.php:446
+msgid "Category"
+msgstr "Kategori"
+
+#: functions.php:419
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Chattar"
+
+#: functions.php:417
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Ljud"
+
+#: functions.php:415
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Statusar"
+
+#: functions.php:413
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Länkar"
+
+#: functions.php:411
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Citat"
+
+#: functions.php:409
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Videoklipp"
+
+#: functions.php:407
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Bilder"
+
+#: functions.php:405
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Gallerier"
+
+#: functions.php:403
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Notiser"
+
+#: pagination.php:38
+msgid "Load More"
+msgstr "Ladda fler"
+
+#: functions.php:1082
+msgid "Previous and next page links"
+msgstr "Föregående och nästa sidlänkar"
+
+#: functions.php:1061
+msgid "Pagination"
+msgstr "Paginering"
+
+#: functions.php:47
+msgid "Mobile Menu"
+msgstr "Mobilmeny"
+
+#: functions.php:694
+msgid "Sticky post"
+msgstr "Klistrat inlägg"
+
+#: functions.php:428 functions.php:463
+msgid "Archives"
+msgstr "Arkiv"
+
+#: functions.php:368
+msgid "Widgets in this area will be shown in the third footer column."
+msgstr "Widgetar i detta område kommer att visas i den tredje sidfotskolumnen."
+
+#: functions.php:358
+msgid "Widgets in this area will be shown in the second footer column."
+msgstr "Widgetar i detta område kommer att visas i den andra sidfotskolumnen."
+
+#: functions.php:348
+msgid "Widgets in this area will be shown in the first footer column."
+msgstr "Widgetar i detta område kommer att visas i den första sidfotskolumnen."
+
+#: functions.php:1010
+msgid "Sticky status"
+msgstr "Klistrad status"
+
+#: functions.php:1008
+msgid "Edit link (for logged in users)"
+msgstr "Redigeringslänk (för inloggade användare)"
+
+#: functions.php:1007
+msgid "Comments"
+msgstr "Kommentarer"
+
+#: functions.php:971
+msgid "Fallback Image"
+msgstr "Reservbild"
+
+#: functions.php:988
+msgid "Disable Fallback Image"
+msgstr "Inaktivera reservbilden"
+
+#: functions.php:972
+msgid "The selected image will be used when a post is missing a featured image. A default fallback image included in the theme will be used if no image is set."
+msgstr "Den valda bilden kommer att visas när ett inlägg saknar utvald bild. En standardreservbild som ingår i temat kommer att användas om ingen annan bild valts."
+
+#: functions.php:961
+msgid "Checking this will decrease load times, but also make images look less sharp on high-resolution screens."
+msgstr "Genom att bocka för den här kortar du ner laddningstiderna, men gör också bilderna mindre skarpa på högupplösta skärmar."
+
+#: functions.php:960
+msgid "Use Low-Resolution Images"
+msgstr "Använd lågupplösta bilder"
+
+#: functions.php:1081
+msgid "Load more on scroll"
+msgstr "Ladda mer vid scroll"
+
+#: functions.php:1080
+msgid "Load more on button click"
+msgstr "Ladda mer vid knapptryck"
+
+#: functions.php:1078
+msgid "Pagination Type:"
+msgstr "Typ av paginering:"
+
+#: functions.php:1064
+msgid "Choose which type of pagination to display."
+msgstr "Välj vilken typ av paginering som ska användas."
+
+#: functions.php:366
+msgid "Footer #3"
+msgstr "Sidfot nr. 3"
+
+#: functions.php:356
+msgid "Footer #2"
+msgstr "Sidfot nr. 2"
+
+#: functions.php:346
+msgid "Footer #1"
+msgstr "Sidfot nr. 1"
+
+#: comments.php:24
+msgid "Add Yours"
+msgstr "Lägg till din"
+
+#: functions.php:1051
+msgid "Post Meta In Previews:"
+msgstr "Metadata för inlägg i förhandsvisningar:"
+
+#: functions.php:1135
+msgid "Check to hide the related posts section on single posts."
+msgstr "Kryssa i för att dölja sektion för relaterade inlägg på enskilda inlägg."
+
+#: 404.php:11
+msgid "We could not find the page you’re looking for. Do you want to go back to the %s?"
+msgstr "Vi kunde inte hitta den sida du letar efter. Vill du gå tillbaka till %s?"
+
+#: index.php:71
+msgid "We couldn’t find any matching search results, but feel free to try again with different words."
+msgstr "Vi kunde inte hitta några matchande sökresultat, men prova gärna igen med andra ord."
+
+#: functions.php:947
+msgid "Settings for images in Miyazaki."
+msgstr "Inställningar för bilder i Miyazaki."
+
+#: functions.php:999
+msgid "Choose which meta information to display in Miyazaki."
+msgstr "Välj vilken metainformation som ska visas i Miyazaki."
+
+#: functions.php:996
+msgid "Post Meta"
+msgstr "Metadata för inlägg"
+
+#: functions.php:1038
+msgid "Select the post meta to display below the content on single posts."
+msgstr "Välj metadatan för inlägg att visa under innehållet på enskilda inlägg."
+
+#: functions.php:1024
+msgid "Select the post meta to display above the content on single posts."
+msgstr "Välj metadatan för inlägg att visa över innehållet på enskilda inlägg."
+
+#: functions.php:1023
+msgid "Post Meta on Single Posts (top):"
+msgstr "Metadata för inlägg på enskilda inlägg (toppen):"
+
+#: functions.php:754
+msgid "By post author"
+msgstr "Av inläggsförfattare"
+
+#: functions.php:921
+msgid "Scales the logo to half its uploaded size, making it sharp on high-res screens."
+msgstr "Skalar loggan till hälften av den uppladdade storleken, vilket gör den skarp på högupplösta skärmar."
+
+#: functions.php:1037
+msgid "Post Meta on Single Posts (bottom):"
+msgstr "Metadata för inlägg på enskilda inlägg (botten):"
+
+#: functions.php:1052
+msgid "Select the post meta to display in post previews on archive pages."
+msgstr "Välj metadan för inlägg att visa i förhandsgranskningar av inlägg på arkivsidor."
+
+#: widgets/recent-comments.php:123 widgets/recent-posts.php:131
+msgid "Defaults to 3 if empty"
+msgstr "Standard till 3 om tom"
+
+#: functions.php:903
+msgid "Select a logo to display in the menu overlay on mobile. It should have the same dimensions as the regular logo."
+msgstr "Välj en logga som ska visas i menyöverlägg på mobil. Den ska ha samma dimensioner som den vanliga loggan."
+
+#: functions.php:936
+msgid "Check to remove the big site title on the front page. Only applies if you haven't uploaded a logo."
+msgstr "Kryssa i för att ta bort den stora webbplatsrubriken på startsidan. Gäller endast om du inte har laddat upp en logga."
+
+#: functions.php:935
+msgid "Disable Big Front Page Title"
+msgstr "Inaktivera stor rubrik på startsida"
+
+#: functions.php:920
+msgid "Retina logo"
+msgstr "Retina-logga"
+
+#: functions.php:79
+msgctxt "Teko font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Theme URI of the theme
+msgid "https://www.andersnoren.se/teman/miyazaki-wordpress-theme/"
+msgstr "https://www.andersnoren.se/teman/miyazaki-wordpress-theme/"
+
+#. Author URI of the theme
+msgid "https://www.andersnoren.se"
+msgstr "https://www.andersnoren.se"

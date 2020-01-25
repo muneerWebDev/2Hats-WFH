@@ -1,0 +1,466 @@
+# Translation of Themes - Zillah in Greek
+# This file is distributed under the same license as the Themes - Zillah package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-05-13 06:38:10+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: el_GR\n"
+"Project-Id-Version: Themes - Zillah\n"
+
+#. Description of the theme
+msgid "Zillah is a free minimal blogging WordPress theme from ThemeIsle. Is responsive and compatible with a wide range of plugins like : Nivo Slider, Siteorigin Page Builder, WooCoomerce, Photo Gallery Grid and Contact Form 7."
+msgstr "To Zillah είναι ένα δωρεάν μινιμαλιστικό WordPress θέμα για ιστολόγια από την ThemeIsle. Προσαρμόζεται σε όλες τις συσκευές και είναι συμβατό με ένα ευρύ φάσμα πρόσθετων όπως: Nivo Slider, Siteorigin Page Builder, WooCoomerce, Photo Gallery Grid and Contact Form 7."
+
+#. Theme Name of the theme
+msgid "Zillah"
+msgstr "Zillah"
+
+#: functions.php:1007
+msgid "our newest theme"
+msgstr "το νεώτερο θέμα μας"
+
+#: inc/class-zillah-theme-plugin-enhancements.php:92
+msgid "Orbit Fox plugin"
+msgstr "Πρόσθετο Orbit Fox"
+
+#. translators:  'Orbit Fox plugin'
+#: inc/class-zillah-theme-plugin-enhancements.php:91
+msgid "The %1$s is recommended to get built-in analytics, place sharing icons, get notified when your site is down, re-design pages with modern templates, add new Elementor and Beaver Builder widgets."
+msgstr "Το %1$s συνιστά να εγκαταστήσετε ενσωματωμένα analytics, εικονίδια κοινωνικών δικτύων, ειδοποίηση όταν ιστότοπος είναι εκτός λειτουργίας, επανασχεδιασμός σελίδων με μοντέρνα templates, πρόσθεση νέων Elementor  και Beaver Builder μικροεφαρμογών."
+
+#: inc/template-tags.php:146
+msgid "Last Updated:"
+msgstr "Τελευταία ενημέρωση:"
+
+#: inc/template-tags.php:147
+msgid "Posted:"
+msgstr "Αναρτήθηκε στις:"
+
+#: inc/customizer.php:154
+msgid "Show updated date in post header."
+msgstr "Εμφάνιση ημερομηνίας ενημέρωση στην κεφαλίδα του άρθρου."
+
+#. translators: %s: post title
+#: comments.php:35
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Μια σκέψη στο &ldquo;%s&rdquo;"
+
+#: inc/customizer.php:73
+msgid "Alternative layout"
+msgstr "Εναλλακτική διάταξη"
+
+#. translators: s: The post title
+#: functions.php:343
+msgid "Read the post %s"
+msgstr "Διαβάστε το άρθρο %s"
+
+#. translators: 1: number of comments, 2: post title
+#: inc/template-tags.php:192
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s σχόλιο"
+msgstr[1] "%1$s σχόλια"
+
+#. translators: %s: post title
+#: inc/template-tags.php:188
+msgctxt "comments title"
+msgid "1 Comment"
+msgstr "1 σχόλιο"
+
+#: inc/customizer.php:74
+msgid "If you check this box, the alternative layout will be used on blog and single page."
+msgstr "Εάν επιλέξετε αυτό το πλαίσιο, η εναλλακτική διάταξη θα χρησιμοποιηθεί στην σελίδα άρθρων και στα μεμονωμένα άρθρα."
+
+#. translators: 1: plugin name 2: activation link
+#: inc/class-zillah-theme-plugin-enhancements.php:296
+msgid " Please activate %1$s. %2$s"
+msgstr " Παρακαλώ ενεργοποιήστε %1$s. %2$s"
+
+#: inc/class/class-zillah-category-control.php:24
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; Επιλέξτε &mdash;"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:57
+msgid ", "
+msgstr ", "
+
+#: inc/widgets/class-zillah-about-me.php:19
+msgid "About me widget."
+msgstr "Μικροεφαρμογή: Σχετικά με εμένα."
+
+#: inc/class-zillah-theme-plugin-enhancements.php:298
+msgid "Activate"
+msgstr "Ενεργοποίηση"
+
+#: functions.php:138 functions.php:153
+msgid "Add widgets here."
+msgstr "Προσθέστε εδώ μικροεφαρμογές."
+
+#: inc/widgets/class-zillah-about-me.php:108
+msgid "Add your text:"
+msgstr "Προσθέστε το κείμενό σας:"
+
+#: footer.php:81
+msgid "Back to top"
+msgstr "Πίσω στην κορυφή"
+
+#: functions.php:191
+msgctxt "Cabin font: on or off"
+msgid "on"
+msgstr "ενεργό"
+
+#: comments.php:55 comments.php:79
+msgid "Comment navigation"
+msgstr "Πλοήγηση σχολίων"
+
+#: comments.php:97
+msgid "Comments are closed."
+msgstr "Τα σχόλια είναι κλειστά."
+
+#. translators: s: The post title
+#: functions.php:334 functions.php:351
+msgid "Continue Reading %s"
+msgstr "Συνεχίστε να διαβάζετε το %s"
+
+#. translators: %s: Name of current post.
+#: template-parts/content-single-alternative.php:43
+#: template-parts/content-single.php:42
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Συνέχεια ανάγνωσης %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/class/class-zillah-palette.php:65 inc/class/class-zillah-palette.php:74
+msgid "Default"
+msgstr "Προεπιλεγμένο"
+
+#. translators: %s: Name of current post
+#: template-parts/content-page.php:36
+msgid "Edit %s"
+msgstr "Επεξεργασία %s"
+
+#: inc/widgets/class-zillah-about-me.php:105
+msgid "Enter the URL for your photo"
+msgstr "Καταχωρίστε τη διεύθυνση URL της φωτογραφίας σας"
+
+#: inc/customizer.php:45
+msgid "Hide Site Title"
+msgstr "Απόκρυψη τίτλου ιστοτόπου"
+
+#: inc/customizer.php:95
+msgid "If you check this box, the sidebar will appear on homepage and archive page."
+msgstr "Αν ενεργοποιήσετε αυτό το πεδίο, η πλευρική στήλη θα εμφανίζεται στην αρχική σελίδα και στην σελίδα ιστορικού."
+
+#: inc/class-zillah-theme-plugin-enhancements.php:309
+msgid "Install"
+msgstr "Εγκατάσταση"
+
+#: 404.php:23
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Δε βρέθηκε κάτι σε αυτή την τοποθεσία. Ίσως να δοκιμάζατε κάποιον από τους παρακάτω συνδέσμους ή να κάνατε μία αναζήτηση;"
+
+#: template-parts/content-none.php:49
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Φαίνεται ότι δεν βρήκαμε αυτό που ζητούσατε. Αν θέλετε, δοκιμάστε την αναζήτηση."
+
+#: inc/class-zillah-theme-plugin-enhancements.php:101
+msgid "Jetpack plugin"
+msgstr "Jetpack πρόσθετο"
+
+#: functions.php:198
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "ενεργό"
+
+#: inc/customizer.php:368
+msgid "Logo"
+msgstr "Λογότυπο"
+
+#: inc/class-zillah-theme-plugin-enhancements.php:161
+msgid "Menus"
+msgstr "Μενού"
+
+#: functions.php:205
+msgctxt "Merriweather font: on or off"
+msgid "on"
+msgstr "ενεργό"
+
+#: comments.php:59 comments.php:83
+msgid "Newer Comments"
+msgstr "Νεότερα σχόλια"
+
+#: comments.php:58 comments.php:82
+msgid "Older Comments"
+msgstr "Παλιότερα σχόλια"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ωπα! Αυτή η σελίδα δε βρέθηκε."
+
+#: template-parts/content-page.php:23 template-parts/content-alternative.php:49
+#: template-parts/content.php:59
+#: template-parts/content-single-alternative.php:56
+#: template-parts/content-single.php:55
+msgid "Pages:"
+msgstr "Σελίδες:"
+
+#: functions.php:52
+msgid "Primary"
+msgstr "Κύριο"
+
+#. translators: 1: link to new post
+#: template-parts/content-none.php:28
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Έτοιμοι να δημοσιεύσετε το πρώτο σας άρθρο; <a href=\"%1$s\">Ξεκινήστε εδώ</a>."
+
+#: inc/class-zillah-theme-plugin-enhancements.php:197
+msgid "Related Posts"
+msgstr "Σχετικά άρθρα"
+
+#. translators: s: search term
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "Αποτελέσματα για %s"
+
+#: inc/customizer.php:94
+msgid "Show sidebar"
+msgstr "Εμφάνιση πλευρικής στήλης"
+
+#: inc/customizer.php:182
+msgid "Show slider"
+msgstr "Εμφάνιση slider"
+
+#: inc/customizer.php:115
+msgid "Show tags"
+msgstr "Εμφάνιση ετικετών"
+
+#: functions.php:136 sidebar.php:21
+msgid "Sidebar"
+msgstr "Πλευρική στήλη"
+
+#: inc/class-zillah-theme-plugin-enhancements.php:134
+msgid "Site Logo"
+msgstr "Λογότυπο ιστότοπου"
+
+#: header.php:28
+msgid "Skip to content"
+msgstr "Μετάβαση στο περιεχόμενο"
+
+#: inc/class-zillah-theme-plugin-enhancements.php:206
+msgid "Social Links"
+msgstr "Σύνδεσμοι κοινωνικών δικτύων"
+
+#: template-parts/content-none.php:42
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Λυπάμαι, αλλά τίποτα δεν βρέθηκε που ταιριάζει στους όρους αναζήτησης. Παρακαλώ προσπαθήστε ξανά με άλλες λέξεις κλειδιά."
+
+#: template-parts/content-none.php:16
+msgid "Sorry, nothing found!"
+msgstr "Λυπούμαστε, δεν βρέθηκε κάτι!"
+
+#. translators: 1: tags
+#: inc/template-tags.php:60
+msgid "Tagged %1$s"
+msgstr "Με ετικέτα: %1$s"
+
+#. translators:  'Simple Contact Form Plugin - PirateForms plugin'
+#: inc/class-zillah-theme-plugin-enhancements.php:110
+msgid "The %1$s is recommended to use some of this theme&rsquo;s features."
+msgstr "Το %1$s προτείνεται ώστε να χρησιμοποιήσετε μερικά από τα χαρακτηριστικά αυτού του θέματος."
+
+#. translators: 1: Link to ThemeIsle.com
+#: footer.php:74
+msgid "Theme Zillah by %1$s"
+msgstr "Θέμα Zillah από %1$s"
+
+#: inc/customizer.php:56
+msgid "Theme options"
+msgstr "Επιλογές θέματος"
+
+#. translators: s: 'Themeisle'
+#: footer.php:76
+msgid "Themeisle"
+msgstr "Themeisle"
+
+#: inc/widgets/class-zillah-about-me.php:102
+msgid "Title:"
+msgstr "Τίτλος:"
+
+#. translators: 1: feature name 2: Jetpack module name
+#: inc/class-zillah-theme-plugin-enhancements.php:335
+msgid "To use %1$s, please activate the Jetpack plugin&rsquo;s %2$s."
+msgstr "Για να χρησιμοποιήσετε το %1$s, παρακαλούμε ενεργοποιήστε το πρόσθετο Jetpack %2$s."
+
+#: inc/template-tags.php:169
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "Κατηγορίες"
+
+#. translators: 1: s: 'WordPress'
+#: footer.php:67
+msgid "WordPress"
+msgstr "WordPress"
+
+#: functions.php:253
+msgid "collapse child menu"
+msgstr "κλείσιμο υπό-μενού"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:39
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s σκέψη στο &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s σκέψεις στο &ldquo;%2$s&rdquo;"
+
+#: functions.php:252
+msgid "expand child menu"
+msgstr "άνοιγμα υπό-μενού"
+
+#: searchform.php:11 searchform.php:12
+msgctxt "label"
+msgid "Search for:"
+msgstr "Αναζήτηση για:"
+
+#: single.php:31
+msgctxt "next post"
+msgid "<span class=\"post-title\">%title</span>"
+msgstr "<span class=\"post-title\">%title</span>"
+
+#: searchform.php:12
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Αναζήτηση&hellip;"
+
+#. translators: s: post author
+#: inc/template-tags.php:36
+msgctxt "post author"
+msgid "by %s"
+msgstr "από τον/την %s"
+
+#. translators: s: post date
+#: inc/template-tags.php:30
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Δημοσιεύτηκε στις %s"
+
+#: single.php:30
+msgctxt "previous post"
+msgid "<span class=\"post-title\">%title</span>"
+msgstr "<span class=\"post-title\">%title</span>"
+
+#: searchform.php:14
+msgctxt "submit button"
+msgid "Search"
+msgstr "Αναζήτηση"
+
+#. translators: 1: Link to WordPress.org
+#: footer.php:65
+msgid "Proudly powered by %1$s"
+msgstr "Με την υποστήριξη του %1$s"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:68
+msgid " Edit %s"
+msgstr " Επεξεργασία %s"
+
+#: inc/customizer.php:224
+msgid "Change the color scheme"
+msgstr "Αλλάξτε το συνδυασμό χρωμάτων"
+
+#: inc/class-zillah-theme-plugin-enhancements.php:170
+msgid "Comics"
+msgstr "Κόμικς"
+
+#: inc/class-zillah-theme-plugin-enhancements.php:143
+msgid "Featured Content"
+msgstr "Προβεβλημένο περιεχόμενο"
+
+#: inc/customizer.php:165
+msgid "Featured content slider"
+msgstr "Slider επιλεγμένου περιεχομένου"
+
+#. translators: d: Sidebar number
+#: functions.php:150
+msgid "Footer Widget Area %d"
+msgstr "Περιοχή μικροεφαρμογών υποσέλιδου %d"
+
+#: inc/customizer.php:135
+msgid "Get 1st image in the post as featured."
+msgstr "Η 1η εικόνα του άρθρου ως επιλεγμένη."
+
+#: inc/customizer.php:183
+msgid "If you check this box, the slider area will appear on the homepage."
+msgstr "Εάν επιλέξετε αυτό το πλαίσιο, η περιοχή του slider θα εμφανίζεται στην αρχική σελίδα."
+
+#: inc/customizer.php:116
+msgid "If you check this box, the tags will appear in posts."
+msgstr "Εάν επιλέξετε αυτό το πλαίσιο, οι ετικέτες θα εμφανίζονται στα άρθρα."
+
+#: inc/class/class-zillah-google-fonts-control.php:62
+msgid "No fonts to show"
+msgstr "Δεν υπάρχουν γραμματοσειρές για εμφάνιση"
+
+#: inc/class-zillah-theme-plugin-enhancements.php:188
+msgid "Portfolios"
+msgstr "Χαρτοφυλάκια/Portfolios"
+
+#: functions.php:53
+msgid "Social Links Menu"
+msgstr "Μενού Συνδέσμων Κοινωνικών Δικτύων"
+
+#: inc/class-zillah-theme-plugin-enhancements.php:152
+msgid "Social Menu"
+msgstr "Μενού κοινωνικών δικτύων"
+
+#: inc/class-zillah-theme-plugin-enhancements.php:179
+msgid "Testimonials"
+msgstr "Μαρτυρίες"
+
+#: inc/template-tags.php:165
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: inc/widgets/class-zillah-about-me.php:25
+msgid "Zillah: About me"
+msgstr "Zillah: Σχετικά με μένα"
+
+#. translators: 1: plugin name 2: install link
+#: inc/class-zillah-theme-plugin-enhancements.php:307
+msgid " Please install %1$s. %2$s"
+msgstr " Παρακαλώ εγκαταστήστε το %1$s. %2$s"
+
+#: inc/class-zillah-theme-plugin-enhancements.php:111
+msgid "Simple Contact Form Plugin - PirateForms plugin"
+msgstr "Simple Contact Form - PirateForms πρόσθετο"
+
+#. translators:  'Jetpack plugin'
+#: inc/class-zillah-theme-plugin-enhancements.php:100
+msgid "The %1$s is recommended to use some of this theme&rsquo;s features, including: "
+msgstr "Το %1$s προτείνεται ώστε να χρησιμοποιήσετε μερικά από τα χαρακτηριστικά αυτού του θέματος, όπως: "
+
+#: inc/class-zillah-theme-plugin-enhancements.php:225
+msgid "Custom Content Types module"
+msgstr "Custom Content Types module"
+
+#: inc/class-zillah-theme-plugin-enhancements.php:224
+msgid "no specific module needed"
+msgstr "Δεν απαιτείται συγκεκριμένο module"
+
+#. Author of the theme
+msgid "ThemeIsle"
+msgstr "ThemeIsle"
+
+#. Author URI of the theme
+msgid "http://themeisle.com"
+msgstr "http://themeisle.com"
+
+#. Theme URI of the theme
+msgid "https://themeisle.com/themes/zillah/"
+msgstr "https://themeisle.com/themes/zillah/"

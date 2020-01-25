@@ -1,0 +1,271 @@
+# Translation of Themes - Hamilton in German
+# This file is distributed under the same license as the Themes - Hamilton package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-12-27 11:10:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: de\n"
+"Project-Id-Version: Themes - Hamilton\n"
+
+#. Theme Name of the theme
+msgid "Hamilton"
+msgstr "Hamilton"
+
+#: functions.php:475
+msgctxt "Short name of the larger font size in the Gutenberg editor."
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:474
+msgctxt "Name of the larger font size in Gutenberg"
+msgid "Larger"
+msgstr "Größer"
+
+#: functions.php:469
+msgctxt "Short name of the large font size in the Gutenberg editor."
+msgid "L"
+msgstr "L"
+
+#: functions.php:468
+msgctxt "Name of the large font size in Gutenberg"
+msgid "Large"
+msgstr "Groß"
+
+#: functions.php:463
+msgctxt "Short name of the regular font size in the Gutenberg editor."
+msgid "M"
+msgstr "M"
+
+#: functions.php:462
+msgctxt "Name of the regular font size in Gutenberg"
+msgid "Regular"
+msgstr "Normal"
+
+#: functions.php:457
+msgctxt "Short name of the small font size in the Gutenberg editor."
+msgid "S"
+msgstr "S"
+
+#: functions.php:456
+msgctxt "Name of the small font size in Gutenberg"
+msgid "Small"
+msgstr "Klein"
+
+#: functions.php:446
+msgctxt "Name of the white color in the Gutenberg palette"
+msgid "White"
+msgstr "Weiß"
+
+#: functions.php:426
+msgctxt "Name of the black color in the Gutenberg palette"
+msgid "Black"
+msgstr "Schwarz"
+
+#: functions.php:91 functions.php:123 functions.php:503
+msgctxt "Google Fonts: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:441
+msgctxt "Name of the light gray color in the Gutenberg palette"
+msgid "Light Gray"
+msgstr "Helles Grau"
+
+#: functions.php:436
+msgctxt "Name of the medium gray color in the Gutenberg palette"
+msgid "Medium Gray"
+msgstr "Mittleres Grau"
+
+#: functions.php:431
+msgctxt "Name of the dark gray color in the Gutenberg palette"
+msgid "Dark Gray"
+msgstr "Dunkles Grau"
+
+#: functions.php:272
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Audio"
+
+#: functions.php:299
+msgid "Theme Options"
+msgstr "Theme-Optionen"
+
+#: singular.php:64
+msgid "Pages:"
+msgstr "Seiten:"
+
+#: singular.php:34
+msgid "%s Comments"
+msgstr "%s Kommentare"
+
+#: singular.php:33
+msgid "1 Comment"
+msgstr "Ein Kommentar"
+
+#: singular.php:32
+msgid "Add Comment"
+msgstr "Kommentar hinzufügen"
+
+#: singular.php:27
+msgid "In"
+msgstr "In"
+
+#: functions.php:346
+msgid "Three Columns"
+msgstr "Drei Spalten"
+
+#: functions.php:266
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Zitate"
+
+#: functions.php:264
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Videos"
+
+#: functions.php:262
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Bilder"
+
+#: functions.php:260
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galerien"
+
+#: comments.php:5
+msgid "Comments"
+msgstr "Kommentare"
+
+#: 404.php:9
+msgid "Error 404"
+msgstr "Fehler 404"
+
+#: header.php:131 footer.php:4
+msgid "Theme by"
+msgstr "Ein Theme von"
+
+#: functions.php:268
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Links"
+
+#: 404.php:15
+msgid "To the front page"
+msgstr "Zur Startseite"
+
+#: functions.php:43
+msgid "Secondary Menu"
+msgstr "Zweites Menu"
+
+#: functions.php:281
+msgid "Archives"
+msgstr "Archive"
+
+#: index.php:37
+msgid "No results found"
+msgstr "Keine Ergebnisse"
+
+#: index.php:38
+msgid "We could not find any results for the search query \"%s\"."
+msgstr "Die Suche nach „%s“ hat kein Ergebnis gebracht."
+
+#: index.php:26
+msgid "Search: %s"
+msgstr "Suchbegriff: %s"
+
+#: functions.php:302
+msgid "Customize the theme settings for Hamilton."
+msgstr "Passe die Einstellungen für „Hamilton“ an."
+
+#: functions.php:274
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Chats"
+
+#: functions.php:258
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Kurzmitteilungen"
+
+#: content.php:30
+msgid "Sticky"
+msgstr "Oben gehalten"
+
+#: functions.php:316
+msgid "Dark Mode"
+msgstr "Dunkler Modus"
+
+#: functions.php:347
+msgid "Check to use three columns in the post grid on desktop."
+msgstr "Die Beitragsübersicht in der Desktopansicht in einem dreispaltigen Layout darstellen."
+
+#: functions.php:332
+msgid "Replace the navigation toggle in the header with the Primary Menu on desktop."
+msgstr "In der Desktopansicht den „Menuschalter“ durch das Hauptmenu ersetzen."
+
+#: functions.php:362
+msgid "Check to always show the titles in the post previews."
+msgstr "Beitragstitel in der Beitragsübersicht anzeigen."
+
+#: functions.php:376
+msgid "Front Page Title"
+msgstr "Überschrift auf der Startseite"
+
+#: functions.php:361
+msgid "Show Preview Titles"
+msgstr "Beitragstitel in der Vorschau anzeigen"
+
+#: functions.php:317
+msgid "Displays the site with white text and black background. If Background Color is set, only the text color will change."
+msgstr "Darstellung der Website mit weißem Text auf schwarzem Hintergrund. Wenn eine Hintergrundfarbe definiert wurde, wird nur die Textfarbe geändert."
+
+#: functions.php:377
+msgid "The title you want shown on the front page when the \"Front page displays\" setting is set to \"Your latest posts\" in Settings > Reading."
+msgstr "Die Überschrift, die auf der Startseite angezeigt wird, wenn für diese unter „Einstellungen &gt; Lesen“ die Option „Deine letzten Beiträge“ eingestellt ist."
+
+#: index.php:27
+msgid "We found %s results matching your search."
+msgstr "Für deine Suche gab es %s Treffer."
+
+#: pagination.php:13
+msgid "Older"
+msgstr "weiter"
+
+#: pagination.php:7
+msgid "Newer"
+msgstr "zurück"
+
+#: functions.php:42
+msgid "Primary Menu"
+msgstr "Hauptmenü"
+
+#: functions.php:331
+msgid "Show Primary Menu in the Header"
+msgstr "Hauptmenü im Header anzeigen"
+
+#: 404.php:11
+msgid "The page you're looking for could not be found. It may have been removed, renamed, or maybe it didn't exist in the first place."
+msgstr "Die angeforderte Seite wurde nicht gefunden. Eventuell wurde sie gelöscht, umbenannt – oder vielleicht hat sie auch nie existiert."
+
+#: functions.php:270
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Status"
+
+#: comments.php:32
+msgid "Comments closed"
+msgstr "Kommentarfunktion ist deaktiviert"
+
+#. Template Name of the theme
+msgid "Resume"
+msgstr "Vita"
+
+#. Author of the theme
+msgid "Anders Norén"
+msgstr "Anders Norén"

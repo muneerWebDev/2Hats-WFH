@@ -1,0 +1,194 @@
+# Translation of Themes - Vertex in Swedish
+# This file is distributed under the same license as the Themes - Vertex package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-08-15 07:30:50+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Themes - Vertex\n"
+
+#. Description of the theme
+msgid "Vertex responsive beautiful and simple theme mostly for portfolio websites or photography and blog sites. With clean and modern design and aesthetic feel,showcase your content in an contemporary timeless style. Make your images stand out and focus on your content."
+msgstr "Vertex är ett responsivt, vackert och enkelt tema som i första hand passa för portföljwebbplatser, fotografi och bloggar. Med dessa rena och moderna design och estetiska känsla kan du presentera ditt innehåll på ett modernt men ändå tidlöst sätt. Fokusera på ditt innehåll och låt dina bilder fånga uppmärksamheten."
+
+#. Theme Name of the theme
+msgid "Vertex"
+msgstr "Vertex"
+
+#: functions.php:121
+msgid "Powered by <a href=\"https://dessign.net/best-free-wordpress-themes/\" target=\"_blank\">WordPress</a>. Vertex <a href=\"https://dessign.net/\" target=\"_blank\">Dessign</a>"
+msgstr "Drivs med <a href=\"https://dessign.net/best-free-wordpress-themes/\" target=\"_blank\">WordPress</a>. Vertex <a href=\"https://dessign.net/\" target=\"_blank\">Dessign</a>a"
+
+#. Template Name of the theme
+msgid "Homepage"
+msgstr "Startsida"
+
+#: tpl-homepage.php:41
+msgid "Next"
+msgstr "Nästa"
+
+#: tpl-homepage.php:40
+msgid "Previous"
+msgstr "Föregående"
+
+#: single.php:19
+msgid "Tags"
+msgstr "Etiketter"
+
+#: single.php:13
+msgid "Pages"
+msgstr "Sidor"
+
+#: searchform.php:5
+msgid "SEARCH"
+msgstr "SÖK"
+
+#: searchform.php:4
+msgid "Search"
+msgstr "Sök"
+
+#: searchform.php:3
+msgid "Search for"
+msgstr "Sök efter"
+
+#: search.php:53
+msgid "Try to search again."
+msgstr "Försök att söka igen."
+
+#: search.php:52
+msgid "No results found"
+msgstr "Inga resultat hittade"
+
+#: search.php:35
+msgid "IN"
+msgstr "I"
+
+#: search.php:8
+msgid "Search Results"
+msgstr "Sökresultat"
+
+#: index.php:50
+msgid "Sorry, no blog posts found. Please create a post and assign it in \"blog\" category."
+msgstr "Tyvärr, inga blogginlägg hittades. Skapa ett inlägg och tilldela det i kategorin ”blogg”."
+
+#: tpl-homepage.php:125 index.php:33
+msgid "Comments"
+msgstr "Kommentarer"
+
+#: tpl-homepage.php:125 index.php:33
+msgid " 1 Comment"
+msgstr "1 kommentar"
+
+#: tpl-homepage.php:125 index.php:33
+msgid "0 Comments"
+msgstr "0 kommentarer"
+
+#: functions.php:121
+msgid "Y"
+msgstr "Y"
+
+#: functions.php:101
+msgid "Footer Col 4"
+msgstr "Sidfot kolumn 4"
+
+#: functions.php:92
+msgid "Footer Col 3"
+msgstr "Sidfot kolumn 3"
+
+#: functions.php:84
+msgid "Footer Col 2"
+msgstr "Sidfot kolumn 2"
+
+#: functions.php:76
+msgid "Footer Col 1"
+msgstr "Sidfot kolumn 1"
+
+#: functions.php:68
+msgid "No Sidebar"
+msgstr "Ingen sidopanel"
+
+#: functions.php:14
+msgid "Header Menu"
+msgstr "Sidhuvudmeny"
+
+#: customizer.php:76 customizer.php:96
+msgid "Copyright Text"
+msgstr "Copyright text"
+
+#: customizer.php:49 customizer.php:78
+msgid "Allows you to set your footer settings"
+msgstr "Låter dig ställa in dina sidfotinställningar"
+
+#: customizer.php:47 customizer.php:67
+msgid "Featured Text"
+msgstr "Utvald text"
+
+#: customizer.php:37
+msgid "%s URL"
+msgstr "%s URL"
+
+#: customizer.php:19
+msgid "Allows you to set your social media URLs"
+msgstr "Låter dig ange URL:er till dina sociala media"
+
+#: customizer.php:17
+msgid "Social Media"
+msgstr "Sociala medier"
+
+#: customizer.php:10
+msgid "Allows you to edit your theme's layout."
+msgstr "Låter dig redigera ditt temas layout."
+
+#: customizer.php:8
+msgid "Logo"
+msgstr "Logga"
+
+#: comments.php:42
+msgid "Comments are closed."
+msgstr "Kommentarer är stängda."
+
+#: comments.php:20 comments.php:38
+msgid "Newer Comments &rarr;"
+msgstr "Nyare kommentarer &rarr;"
+
+#: comments.php:19 comments.php:37
+msgid "&larr; Older Comments"
+msgstr "&larr; Äldre kommentarer"
+
+#: comments.php:18 comments.php:36
+msgid "Comment navigation"
+msgstr "Kommentarsnavigering"
+
+#: comments.php:12
+msgid "One comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s comments on &ldquo;%2$s&rdquo;"
+msgstr[0] "En kommentar på “%2$s”"
+msgstr[1] "%1$s kommentarer på “%2$s”"
+
+#: 404.php:10
+msgid "It looks like nothing was found at this location. Maybe try a search"
+msgstr "Det ser ut som att inget hittades på denna plats. Kanske prova en sökning"
+
+#: 404.php:9
+msgid "This is somewhat embarrassing, isn't it?"
+msgstr "Det här är lite pinsamt, eller hur?"
+
+#: 404.php:8
+msgid "Page not Found"
+msgstr "Sidan hittas inte"
+
+#. Author URI of the theme
+msgid "https://dessign.net"
+msgstr "https://dessign.net"
+
+#. Author of the theme
+msgid "Dessign Themes"
+msgstr "Dessign Themes"
+
+#. Theme URI of the theme
+msgid "https://dessign.net/vertex-theme/"
+msgstr "https://dessign.net/vertex-theme/"

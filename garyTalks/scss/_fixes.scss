@@ -1,0 +1,49 @@
+#commentform.comment-form{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    p{
+        width: 100%;
+        order: 1;
+        &.comment-form-comment{
+            order: 2;
+            width: calc(100% - 115px);
+            margin-bottom: 5px;
+            label{
+                display: none;
+            }
+            textarea{
+                height: 35px;
+                resize: none;
+            }
+        }
+        &.form-submit{
+            order: 3;
+            width: 100px;
+            margin-left: 15px;
+            #submit{
+                background: #dddddd;
+                font-weight: 800;
+                padding: 1rem 2rem;
+                font-size: 1.2rem;
+                border: 1px solid #000;
+                border-radius: 3px;
+                color: #000;
+            }
+        }
+
+        @include media-breakpoint-up(sm){
+            &.comment-form-email,&.comment-form-author,&.comment-form-url{
+                width: 33.33%;
+            }
+        }
+    }
+}
+
+body{
+    margin: 0 !important;
+}
+p.copyright{
+    margin: 0;
+    padding-top: 1rem;
+}
